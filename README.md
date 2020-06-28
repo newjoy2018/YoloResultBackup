@@ -2,7 +2,7 @@
 backup the local training and testing results
 
 ## ***images/chart.png***
-Loss(mAP)-Iteration during traing process. Stop at iteration=1700 (Total=8000).
+chart of **Loss(mAP)-Iteration** during traing process. Early stop at iteration=1700 (Total=8000).
 ## ***images/\*.jpg***
 images before and after testing
 ## ***logTest.txt***
