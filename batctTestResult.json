@@ -1,0 +1,1089 @@
+[
+{
+ "frame_id":1, 
+ "filename":"myTraining/batchTest/0924_9_39.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 521, "top_y": 223, "width": 397, "height": 283}, "confidence":0.997409}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 310, "top_y": 153, "width": 204, "height": 188}, "confidence":0.864748}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x":   2, "top_y":  46, "width":  82, "height":  88}, "confidence":0.943084}
+ ] 
+}, 
+{
+ "frame_id":2, 
+ "filename":"myTraining/batchTest/0924_9_339.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 321, "top_y":  50, "width": 156, "height":  98}, "confidence":0.988430}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 334, "top_y": 297, "width": 361, "height": 332}, "confidence":0.996809}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x": 134, "top_y": 140, "width": 183, "height":  90}, "confidence":0.993289}
+ ] 
+}, 
+{
+ "frame_id":3, 
+ "filename":"myTraining/batchTest/0924_9_112.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 301, "top_y":  52, "width": 141, "height":  75}, "confidence":0.917436}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 489, "top_y": 116, "width": 136, "height": 112}, "confidence":0.996146}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 243, "top_y": 114, "width": 261, "height":  94}, "confidence":0.992754}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 176, "top_y": 118, "width":  82, "height":  86}, "confidence":0.969840}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x": 127, "top_y": 153, "width": 186, "height":  90}, "confidence":0.963362}
+ ] 
+}, 
+{
+ "frame_id":4, 
+ "filename":"myTraining/batchTest/0924_9_199.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 706, "top_y": 143, "width": 475, "height": 447}, "confidence":0.995791}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 303, "top_y": 196, "width": 135, "height":  57}, "confidence":0.955539}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 135, "top_y": 315, "width": 632, "height": 219}, "confidence":0.997750}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 150, "top_y": 165, "width":  71, "height":  54}, "confidence":0.995656}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 106, "top_y": 137, "width":  91, "height":  40}, "confidence":0.885423}
+ ] 
+}, 
+{
+ "frame_id":5, 
+ "filename":"myTraining/batchTest/0924_9_319.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x": 474, "top_y": 130, "width":  44, "height":  37}, "confidence":0.370619}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 474, "top_y": 130, "width":  44, "height":  37}, "confidence":0.756957}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 723, "top_y": 167, "width":  97, "height":  71}, "confidence":0.273199}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 359, "top_y": 285, "width": 260, "height": 190}, "confidence":0.997102}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x": 421, "top_y": 168, "width":  64, "height":  37}, "confidence":0.992137}
+ ] 
+}, 
+{
+ "frame_id":6, 
+ "filename":"myTraining/batchTest/0924_9_126.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 560, "top_y":  33, "width": 446, "height": 437}, "confidence":0.993270}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 323, "top_y": 192, "width": 118, "height":  70}, "confidence":0.990738}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 121, "top_y": 315, "width": 623, "height": 224}, "confidence":0.997521}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 986, "top_y": 266, "width": 201, "height": 123}, "confidence":0.984713}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x":   7, "top_y": 159, "width":  71, "height":  38}, "confidence":0.922467}
+ ] 
+}, 
+{
+ "frame_id":7, 
+ "filename":"myTraining/batchTest/0924_9_32.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 611, "top_y": 213, "width": 344, "height": 226}, "confidence":0.993854}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x": 104, "top_y":  47, "width": 191, "height":  88}, "confidence":0.972946}
+ ] 
+}, 
+{
+ "frame_id":8, 
+ "filename":"myTraining/batchTest/0924_9_122.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 638, "top_y":   5, "width": 409, "height": 465}, "confidence":0.997227}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 360, "top_y": 180, "width": 124, "height":  66}, "confidence":0.969059}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 121, "top_y": 300, "width": 589, "height": 221}, "confidence":0.997362}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x":1030, "top_y": 259, "width": 191, "height": 114}, "confidence":0.977700}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x":  43, "top_y": 144, "width":  85, "height":  40}, "confidence":0.989395}
+ ] 
+}, 
+{
+ "frame_id":9, 
+ "filename":"myTraining/batchTest/0924_9_276.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 564, "top_y":  -5, "width": 439, "height": 474}, "confidence":0.993919}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x":  59, "top_y": 110, "width":  75, "height":  48}, "confidence":0.798876}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x":1011, "top_y": 260, "width": 246, "height": 152}, "confidence":0.991758}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 139, "top_y": 314, "width": 622, "height": 220}, "confidence":0.986930}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x":  64, "top_y": 111, "width":  71, "height":  43}, "confidence":0.710950}
+ ] 
+}, 
+{
+ "frame_id":10, 
+ "filename":"myTraining/batchTest/0924_9_6.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 316, "top_y":  47, "width": 124, "height":  91}, "confidence":0.992958}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 503, "top_y": 261, "width": 135, "height": 151}, "confidence":0.992802}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 540, "top_y": 147, "width": 112, "height": 126}, "confidence":0.959253}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x": 128, "top_y": 154, "width": 179, "height":  86}, "confidence":0.990771}
+ ] 
+}, 
+{
+ "frame_id":11, 
+ "filename":"myTraining/batchTest/0924_9_89.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 839, "top_y":  98, "width":  50, "height":  35}, "confidence":0.979618}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 150, "top_y": 343, "width": 555, "height": 191}, "confidence":0.996868}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 720, "top_y": 211, "width": 266, "height": 121}, "confidence":0.834927}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x": 771, "top_y": 135, "width":  63, "height":  40}, "confidence":0.980005}
+ ] 
+}, 
+{
+ "frame_id":12, 
+ "filename":"myTraining/batchTest/0924_9_116.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 820, "top_y": -25, "width": 425, "height": 508}, "confidence":0.974022}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 332, "top_y":  88, "width":  60, "height":  33}, "confidence":0.952174}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 557, "top_y": 157, "width": 111, "height":  66}, "confidence":0.316727}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 172, "top_y": 275, "width": 584, "height": 208}, "confidence":0.998371}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 392, "top_y": 110, "width":  61, "height":  47}, "confidence":0.993206}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x": 269, "top_y": 120, "width":  68, "height":  42}, "confidence":0.979101}
+ ] 
+}, 
+{
+ "frame_id":13, 
+ "filename":"myTraining/batchTest/0924_9_79.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 476, "top_y": 107, "width": 145, "height": 115}, "confidence":0.971966}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 179, "top_y": 108, "width": 283, "height":  97}, "confidence":0.969462}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x": 126, "top_y": 157, "width": 188, "height":  86}, "confidence":0.978399}
+ ] 
+}, 
+{
+ "frame_id":14, 
+ "filename":"myTraining/batchTest/0924_9_239.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 682, "top_y": 216, "width": 475, "height": 394}, "confidence":0.992826}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x":  63, "top_y": 113, "width":  63, "height":  45}, "confidence":0.947884}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 129, "top_y": 317, "width": 641, "height": 217}, "confidence":0.997354}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 150, "top_y": 135, "width":  45, "height":  49}, "confidence":0.952178}
+ ] 
+}, 
+{
+ "frame_id":15, 
+ "filename":"myTraining/batchTest/0924_9_346.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 297, "top_y":  20, "width": 179, "height": 107}, "confidence":0.980618}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 475, "top_y": 275, "width": 271, "height": 271}, "confidence":0.996737}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x": 127, "top_y": 138, "width": 189, "height":  95}, "confidence":0.990455}
+ ] 
+}, 
+{
+ "frame_id":16, 
+ "filename":"myTraining/batchTest/0924_9_26.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 288, "top_y":   0, "width": 140, "height":  16}, "confidence":0.352280}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 538, "top_y": 171, "width": 295, "height": 220}, "confidence":0.996562}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x": 111, "top_y":  27, "width": 180, "height": 103}, "confidence":0.987190}
+ ] 
+}, 
+{
+ "frame_id":17, 
+ "filename":"myTraining/batchTest/0924_9_86.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 847, "top_y":  98, "width":  42, "height":  35}, "confidence":0.914906}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 151, "top_y": 342, "width": 559, "height": 192}, "confidence":0.996374}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 787, "top_y": 210, "width": 346, "height": 142}, "confidence":0.994944}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x":  63, "top_y": 179, "width": 242, "height": 117}, "confidence":0.924014}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x": 770, "top_y": 133, "width":  68, "height":  42}, "confidence":0.973744}
+ ] 
+}, 
+{
+ "frame_id":18, 
+ "filename":"myTraining/batchTest/0924_9_2.jpg", 
+ "objects": [ 
+  {"class_id":3, "name":"worker", "relative_coordinates":{"left_x": 274, "top_y": 148, "width":  20, "height":  58}, "confidence":0.866466}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 310, "top_y":  50, "width": 132, "height":  86}, "confidence":0.991245}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 537, "top_y": 126, "width": 122, "height": 127}, "confidence":0.994711}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 504, "top_y": 244, "width": 132, "height": 159}, "confidence":0.991659}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x": 126, "top_y": 153, "width": 182, "height":  86}, "confidence":0.988447}
+ ] 
+}, 
+{
+ "frame_id":19, 
+ "filename":"myTraining/batchTest/0924_9_109.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 844, "top_y": 153, "width": 124, "height":  67}, "confidence":0.982911}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 622, "top_y":  77, "width":  59, "height":  41}, "confidence":0.948632}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 343, "top_y": 281, "width": 564, "height": 207}, "confidence":0.996168}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 697, "top_y": 130, "width":  50, "height":  69}, "confidence":0.994953}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x": 560, "top_y": 118, "width":  70, "height":  38}, "confidence":0.985388}
+ ] 
+}, 
+{
+ "frame_id":20, 
+ "filename":"myTraining/batchTest/0924_9_76.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 834, "top_y":  97, "width":  52, "height":  37}, "confidence":0.954873}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 273, "top_y": 331, "width": 591, "height": 209}, "confidence":0.997430}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x":1027, "top_y": 183, "width": 199, "height": 142}, "confidence":0.975137}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 410, "top_y": 140, "width": 103, "height":  72}, "confidence":0.635732}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x": 767, "top_y": 135, "width":  64, "height":  40}, "confidence":0.976095}
+ ] 
+}, 
+{
+ "frame_id":21, 
+ "filename":"myTraining/batchTest/0924_9_266.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 498, "top_y":  -7, "width": 524, "height": 489}, "confidence":0.999436}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x":  60, "top_y": 112, "width":  69, "height":  45}, "confidence":0.709712}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 139, "top_y": 313, "width": 625, "height": 222}, "confidence":0.991282}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x":  66, "top_y": 114, "width":  65, "height":  42}, "confidence":0.802890}
+ ] 
+}, 
+{
+ "frame_id":22, 
+ "filename":"myTraining/batchTest/0924_9_99.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x":1042, "top_y": 150, "width": 146, "height":  74}, "confidence":0.989381}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x": 841, "top_y":  76, "width":  44, "height":  39}, "confidence":0.455590}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 841, "top_y":  76, "width":  44, "height":  39}, "confidence":0.475792}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 302, "top_y": 303, "width": 592, "height": 219}, "confidence":0.995206}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 815, "top_y": 152, "width":  97, "height":  92}, "confidence":0.993712}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x": 762, "top_y": 114, "width":  65, "height":  40}, "confidence":0.992575}
+ ] 
+}, 
+{
+ "frame_id":23, 
+ "filename":"myTraining/batchTest/0924_9_286.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 432, "top_y":  52, "width": 591, "height": 405}, "confidence":0.999547}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x":  65, "top_y": 117, "width":  68, "height":  41}, "confidence":0.886106}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 137, "top_y": 312, "width": 627, "height": 222}, "confidence":0.990044}
+ ] 
+}, 
+{
+ "frame_id":24, 
+ "filename":"myTraining/batchTest/0924_9_19.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 287, "top_y":   5, "width": 171, "height":  85}, "confidence":0.992893}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 531, "top_y": 234, "width": 206, "height": 192}, "confidence":0.997970}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x": 143, "top_y": 104, "width": 175, "height":  98}, "confidence":0.995065}
+ ] 
+}, 
+{
+ "frame_id":25, 
+ "filename":"myTraining/batchTest/0924_9_329.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 414, "top_y": 147, "width":  76, "height":  62}, "confidence":0.966444}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x": 411, "top_y": 148, "width":  81, "height":  61}, "confidence":0.406024}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 332, "top_y": 339, "width": 227, "height": 235}, "confidence":0.997308}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x": 332, "top_y": 216, "width": 107, "height":  53}, "confidence":0.993842}
+ ] 
+}, 
+{
+ "frame_id":26, 
+ "filename":"myTraining/batchTest/0924_9_279.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 558, "top_y":   0, "width": 450, "height": 467}, "confidence":0.995084}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x":  65, "top_y": 125, "width":  78, "height":  34}, "confidence":0.969645}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x":1014, "top_y": 267, "width": 256, "height": 153}, "confidence":0.998369}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 140, "top_y": 313, "width": 622, "height": 221}, "confidence":0.989645}
+ ] 
+}, 
+{
+ "frame_id":27, 
+ "filename":"myTraining/batchTest/0924_9_119.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 673, "top_y": -32, "width": 466, "height": 495}, "confidence":0.992592}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 430, "top_y": 158, "width": 116, "height":  67}, "confidence":0.972247}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 191, "top_y":  85, "width":  62, "height":  38}, "confidence":0.948585}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 125, "top_y": 281, "width": 575, "height": 217}, "confidence":0.996970}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 185, "top_y": 114, "width": 100, "height":  38}, "confidence":0.987258}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x": 188, "top_y": 108, "width":  88, "height":  39}, "confidence":0.295686}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x": 120, "top_y": 126, "width":  78, "height":  42}, "confidence":0.988524}
+ ] 
+}, 
+{
+ "frame_id":28, 
+ "filename":"myTraining/batchTest/0924_9_336.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 316, "top_y":  68, "width": 171, "height":  88}, "confidence":0.969898}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x":1069, "top_y": 171, "width": 200, "height": 245}, "confidence":0.739573}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 253, "top_y": 346, "width": 420, "height": 355}, "confidence":0.996899}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x": 131, "top_y": 161, "width": 188, "height":  90}, "confidence":0.996371}
+ ] 
+}, 
+{
+ "frame_id":29, 
+ "filename":"myTraining/batchTest/0924_9_162.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 521, "top_y":  -4, "width": 505, "height": 484}, "confidence":0.998194}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 324, "top_y": 187, "width": 112, "height":  74}, "confidence":0.979261}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 130, "top_y": 311, "width": 640, "height": 224}, "confidence":0.996900}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 105, "top_y": 136, "width":  91, "height":  43}, "confidence":0.933763}
+ ] 
+}, 
+{
+ "frame_id":30, 
+ "filename":"myTraining/batchTest/0924_9_92.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 832, "top_y":  98, "width":  57, "height":  35}, "confidence":0.944513}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x":1108, "top_y": 147, "width": 115, "height": 102}, "confidence":0.926228}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 719, "top_y": 201, "width": 185, "height": 126}, "confidence":0.997218}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 178, "top_y": 341, "width": 514, "height": 193}, "confidence":0.995208}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x": 770, "top_y": 136, "width":  64, "height":  38}, "confidence":0.981505}
+ ] 
+}, 
+{
+ "frame_id":31, 
+ "filename":"myTraining/batchTest/0924_9_356.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 285, "top_y":  60, "width": 158, "height":  79}, "confidence":0.992853}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 523, "top_y": 116, "width": 125, "height": 115}, "confidence":0.996862}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 507, "top_y": 219, "width": 136, "height": 165}, "confidence":0.994611}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x": 127, "top_y": 153, "width": 180, "height":  86}, "confidence":0.991432}
+ ] 
+}, 
+{
+ "frame_id":32, 
+ "filename":"myTraining/batchTest/0924_9_182.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 693, "top_y": 207, "width": 446, "height": 377}, "confidence":0.993892}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x":  32, "top_y": 108, "width":  64, "height":  48}, "confidence":0.561240}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 134, "top_y": 314, "width": 632, "height": 221}, "confidence":0.997724}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 104, "top_y": 136, "width":  92, "height":  43}, "confidence":0.957680}
+ ] 
+}, 
+{
+ "frame_id":33, 
+ "filename":"myTraining/batchTest/0924_9_142.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 308, "top_y": 191, "width": 130, "height":  68}, "confidence":0.980649}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 140, "top_y": 315, "width": 622, "height": 219}, "confidence":0.998121}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 105, "top_y": 137, "width":  91, "height":  43}, "confidence":0.961406}
+ ] 
+}, 
+{
+ "frame_id":34, 
+ "filename":"myTraining/batchTest/0924_9_206.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 698, "top_y": 211, "width": 525, "height": 476}, "confidence":0.995259}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 321, "top_y": 173, "width": 115, "height":  83}, "confidence":0.991455}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x":  54, "top_y": 111, "width":  69, "height":  46}, "confidence":0.957781}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 133, "top_y": 317, "width": 636, "height": 217}, "confidence":0.997741}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 159, "top_y": 141, "width":  44, "height":  50}, "confidence":0.982949}
+ ] 
+}, 
+{
+ "frame_id":35, 
+ "filename":"myTraining/batchTest/0924_9_262.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 458, "top_y": -12, "width": 572, "height": 503}, "confidence":0.999403}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x":  58, "top_y": 117, "width":  75, "height":  39}, "confidence":0.804989}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 142, "top_y": 311, "width": 617, "height": 224}, "confidence":0.992739}
+ ] 
+}, 
+{
+ "frame_id":36, 
+ "filename":"myTraining/batchTest/0924_9_16.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 934, "top_y": 163, "width": 337, "height": 245}, "confidence":0.991069}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 317, "top_y":  60, "width": 126, "height":  77}, "confidence":0.977500}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 514, "top_y": 297, "width": 179, "height": 171}, "confidence":0.997784}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x": 127, "top_y": 153, "width": 179, "height":  86}, "confidence":0.992281}
+ ] 
+}, 
+{
+ "frame_id":37, 
+ "filename":"myTraining/batchTest/0924_9_42.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 122, "top_y":   6, "width": 105, "height":  69}, "confidence":0.963959}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 512, "top_y": 253, "width": 399, "height": 255}, "confidence":0.994764}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 307, "top_y": 200, "width": 210, "height": 163}, "confidence":0.893599}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x":   3, "top_y":  92, "width": 113, "height":  77}, "confidence":0.976637}
+ ] 
+}, 
+{
+ "frame_id":38, 
+ "filename":"myTraining/batchTest/0924_9_342.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 303, "top_y":  46, "width": 166, "height":  87}, "confidence":0.985045}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 421, "top_y": 291, "width": 313, "height": 288}, "confidence":0.997533}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x": 126, "top_y": 138, "width": 190, "height":  95}, "confidence":0.990212}
+ ] 
+}, 
+{
+ "frame_id":39, 
+ "filename":"myTraining/batchTest/0924_9_139.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 301, "top_y": 198, "width": 136, "height":  54}, "confidence":0.934417}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 140, "top_y": 315, "width": 622, "height": 220}, "confidence":0.998055}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 105, "top_y": 137, "width":  91, "height":  42}, "confidence":0.972534}
+ ] 
+}, 
+{
+ "frame_id":40, 
+ "filename":"myTraining/batchTest/0924_9_232.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 315, "top_y": 176, "width": 120, "height":  76}, "confidence":0.988672}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 135, "top_y": 314, "width": 633, "height": 221}, "confidence":0.997634}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 128, "top_y": 137, "width":  64, "height":  41}, "confidence":0.976493}
+ ] 
+}, 
+{
+ "frame_id":41, 
+ "filename":"myTraining/batchTest/0924_9_176.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 671, "top_y": 163, "width": 527, "height": 543}, "confidence":0.996395}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 301, "top_y": 191, "width": 138, "height":  73}, "confidence":0.983296}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 132, "top_y": 314, "width": 635, "height": 220}, "confidence":0.997408}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 105, "top_y": 135, "width":  92, "height":  44}, "confidence":0.968620}
+ ] 
+}, 
+{
+ "frame_id":42, 
+ "filename":"myTraining/batchTest/0924_9_316.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 331, "top_y": 285, "width": 385, "height": 226}, "confidence":0.995831}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x": 397, "top_y": 170, "width":  72, "height":  38}, "confidence":0.995448}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x": 467, "top_y": 128, "width":  29, "height":  41}, "confidence":0.954104}
+ ] 
+}, 
+{
+ "frame_id":43, 
+ "filename":"myTraining/batchTest/0924_9_326.jpg", 
+ "objects": [ 
+  {"class_id":3, "name":"worker", "relative_coordinates":{"left_x":  29, "top_y": 286, "width":  22, "height":  73}, "confidence":0.977636}, 
+  {"class_id":3, "name":"worker", "relative_coordinates":{"left_x":   3, "top_y": 298, "width":  35, "height":  53}, "confidence":0.611848}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 506, "top_y": 207, "width":  47, "height":  33}, "confidence":0.970195}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 433, "top_y": 320, "width": 139, "height": 181}, "confidence":0.997694}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x": 447, "top_y": 240, "width":  73, "height":  38}, "confidence":0.992854}
+ ] 
+}, 
+{
+ "frame_id":44, 
+ "filename":"myTraining/batchTest/0924_9_236.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 689, "top_y": 209, "width": 554, "height": 443}, "confidence":0.715049}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 134, "top_y": 315, "width": 635, "height": 219}, "confidence":0.997599}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 142, "top_y": 138, "width":  54, "height":  42}, "confidence":0.964891}
+ ] 
+}, 
+{
+ "frame_id":45, 
+ "filename":"myTraining/batchTest/0924_9_82.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 848, "top_y":  95, "width":  50, "height":  39}, "confidence":0.950905}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 264, "top_y": 334, "width": 533, "height": 205}, "confidence":0.996904}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x":1049, "top_y": 209, "width": 158, "height": 126}, "confidence":0.983521}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 283, "top_y": 158, "width": 154, "height":  92}, "confidence":0.832092}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x": 774, "top_y": 133, "width":  71, "height":  43}, "confidence":0.954142}
+ ] 
+}, 
+{
+ "frame_id":46, 
+ "filename":"myTraining/batchTest/0924_9_226.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 546, "top_y": -17, "width": 472, "height": 498}, "confidence":0.993372}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 304, "top_y": 188, "width": 123, "height":  74}, "confidence":0.963017}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x":  69, "top_y": 104, "width":  37, "height":  52}, "confidence":0.962122}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 139, "top_y": 315, "width": 627, "height": 219}, "confidence":0.997317}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 168, "top_y": 158, "width":  56, "height":  54}, "confidence":0.982915}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 112, "top_y": 138, "width":  77, "height":  37}, "confidence":0.963874}
+ ] 
+}, 
+{
+ "frame_id":47, 
+ "filename":"myTraining/batchTest/0924_9_129.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 535, "top_y":  45, "width": 477, "height": 420}, "confidence":0.997519}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 323, "top_y": 184, "width": 114, "height":  80}, "confidence":0.989724}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 125, "top_y": 317, "width": 646, "height": 223}, "confidence":0.996730}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x":  56, "top_y": 145, "width": 104, "height":  34}, "confidence":0.760993}
+ ] 
+}, 
+{
+ "frame_id":48, 
+ "filename":"myTraining/batchTest/0924_9_102.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x":1009, "top_y": 166, "width": 141, "height":  59}, "confidence":0.929316}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 810, "top_y":  83, "width":  44, "height":  33}, "confidence":0.835787}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 322, "top_y": 296, "width": 587, "height": 221}, "confidence":0.998111}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 803, "top_y": 148, "width":  94, "height":  89}, "confidence":0.988274}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x": 732, "top_y": 116, "width":  68, "height":  39}, "confidence":0.987566}
+ ] 
+}, 
+{
+ "frame_id":49, 
+ "filename":"myTraining/batchTest/0924_9_152.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 698, "top_y": 181, "width": 412, "height": 363}, "confidence":0.965723}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 299, "top_y": 197, "width": 138, "height":  55}, "confidence":0.953911}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 138, "top_y": 315, "width": 624, "height": 219}, "confidence":0.997891}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 105, "top_y": 137, "width":  91, "height":  41}, "confidence":0.966328}
+ ] 
+}, 
+{
+ "frame_id":50, 
+ "filename":"myTraining/batchTest/0924_9_146.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 325, "top_y": 173, "width": 112, "height":  85}, "confidence":0.992410}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 654, "top_y": 170, "width": 583, "height": 532}, "confidence":0.959037}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 134, "top_y": 315, "width": 631, "height": 219}, "confidence":0.997728}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 105, "top_y": 137, "width":  91, "height":  42}, "confidence":0.964174}
+ ] 
+}, 
+{
+ "frame_id":51, 
+ "filename":"myTraining/batchTest/0924_9_322.jpg", 
+ "objects": [ 
+  {"class_id":3, "name":"worker", "relative_coordinates":{"left_x":  39, "top_y": 254, "width":  27, "height":  66}, "confidence":0.835856}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 504, "top_y": 166, "width":  55, "height":  37}, "confidence":0.988921}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 428, "top_y": 307, "width": 158, "height": 170}, "confidence":0.998413}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x": 461, "top_y": 203, "width":  59, "height":  39}, "confidence":0.885129}
+ ] 
+}, 
+{
+ "frame_id":52, 
+ "filename":"myTraining/batchTest/0924_9_242.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 716, "top_y": 183, "width": 384, "height": 370}, "confidence":0.996303}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x":  69, "top_y": 109, "width":  37, "height":  48}, "confidence":0.884479}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 132, "top_y": 317, "width": 637, "height": 216}, "confidence":0.997084}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 153, "top_y": 140, "width":  52, "height":  50}, "confidence":0.978960}
+ ] 
+}, 
+{
+ "frame_id":53, 
+ "filename":"myTraining/batchTest/0924_9_166.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 614, "top_y":   2, "width": 398, "height": 459}, "confidence":0.997107}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 323, "top_y": 189, "width": 116, "height":  70}, "confidence":0.987750}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 138, "top_y": 313, "width": 626, "height": 223}, "confidence":0.997427}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 105, "top_y": 136, "width":  92, "height":  44}, "confidence":0.959042}
+ ] 
+}, 
+{
+ "frame_id":54, 
+ "filename":"myTraining/batchTest/0924_9_69.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 538, "top_y": 154, "width":  46, "height":  34}, "confidence":0.943219}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 309, "top_y": 350, "width": 471, "height": 255}, "confidence":0.996556}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 722, "top_y": 229, "width": 172, "height": 130}, "confidence":0.421634}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x": 468, "top_y": 189, "width":  65, "height":  40}, "confidence":0.965768}
+ ] 
+}, 
+{
+ "frame_id":55, 
+ "filename":"myTraining/batchTest/0924_9_222.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 427, "top_y":  61, "width": 589, "height": 396}, "confidence":0.999569}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 303, "top_y": 189, "width": 118, "height":  75}, "confidence":0.989962}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x":  47, "top_y": 110, "width":  63, "height":  41}, "confidence":0.387368}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 138, "top_y": 310, "width": 625, "height": 224}, "confidence":0.996612}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 163, "top_y": 144, "width":  52, "height":  57}, "confidence":0.995332}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x":  85, "top_y": 139, "width":  72, "height":  38}, "confidence":0.980468}
+ ] 
+}, 
+{
+ "frame_id":56, 
+ "filename":"myTraining/batchTest/0924_9_272.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 464, "top_y":  -5, "width": 545, "height": 492}, "confidence":0.999549}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x":  55, "top_y": 109, "width":  55, "height":  48}, "confidence":0.972880}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 139, "top_y": 313, "width": 622, "height": 222}, "confidence":0.992053}
+ ] 
+}, 
+{
+ "frame_id":57, 
+ "filename":"myTraining/batchTest/0924_9_259.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 504, "top_y":  -8, "width": 511, "height": 492}, "confidence":0.998971}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 317, "top_y": 177, "width": 118, "height":  80}, "confidence":0.990735}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x":  65, "top_y": 123, "width":  80, "height":  36}, "confidence":0.975731}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 145, "top_y": 313, "width": 616, "height": 221}, "confidence":0.987880}
+ ] 
+}, 
+{
+ "frame_id":58, 
+ "filename":"myTraining/batchTest/0924_9_189.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 592, "top_y":   9, "width": 413, "height": 468}, "confidence":0.995625}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 142, "top_y": 311, "width": 618, "height": 223}, "confidence":0.997540}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 103, "top_y": 135, "width":  93, "height":  44}, "confidence":0.920429}
+ ] 
+}, 
+{
+ "frame_id":59, 
+ "filename":"myTraining/batchTest/0924_9_219.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 572, "top_y":  22, "width": 423, "height": 441}, "confidence":0.993203}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 297, "top_y": 196, "width": 142, "height":  57}, "confidence":0.942665}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 138, "top_y": 312, "width": 627, "height": 221}, "confidence":0.996955}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 153, "top_y": 138, "width":  54, "height":  52}, "confidence":0.983959}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x":  74, "top_y": 139, "width":  62, "height":  40}, "confidence":0.512035}
+ ] 
+}, 
+{
+ "frame_id":60, 
+ "filename":"myTraining/batchTest/0924_9_306.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 696, "top_y":  78, "width": 517, "height": 382}, "confidence":0.951835}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x":  65, "top_y": 123, "width":  73, "height":  38}, "confidence":0.951298}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 132, "top_y": 312, "width": 602, "height": 225}, "confidence":0.993004}
+ ] 
+}, 
+{
+ "frame_id":61, 
+ "filename":"myTraining/batchTest/0924_9_209.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 683, "top_y": 192, "width": 468, "height": 461}, "confidence":0.996768}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 298, "top_y": 197, "width": 140, "height":  56}, "confidence":0.962501}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 134, "top_y": 317, "width": 633, "height": 217}, "confidence":0.997685}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 139, "top_y": 142, "width":  57, "height":  42}, "confidence":0.987964}
+ ] 
+}, 
+{
+ "frame_id":62, 
+ "filename":"myTraining/batchTest/0924_9_46.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 261, "top_y": 106, "width":  90, "height":  59}, "confidence":0.969678}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 571, "top_y": 277, "width": 319, "height": 200}, "confidence":0.995473}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 412, "top_y": 233, "width": 170, "height": 129}, "confidence":0.966068}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x":  70, "top_y": 164, "width":  98, "height":  64}, "confidence":0.881133}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x": 175, "top_y": 174, "width":  99, "height":  52}, "confidence":0.968512}
+ ] 
+}, 
+{
+ "frame_id":63, 
+ "filename":"myTraining/batchTest/0924_9_56.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 449, "top_y": 110, "width": 168, "height": 102}, "confidence":0.988086}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 139, "top_y": 110, "width": 271, "height":  97}, "confidence":0.912595}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x": 119, "top_y": 155, "width": 201, "height":  89}, "confidence":0.953312}
+ ] 
+}, 
+{
+ "frame_id":64, 
+ "filename":"myTraining/batchTest/0924_9_136.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 323, "top_y": 174, "width": 113, "height":  83}, "confidence":0.993057}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 702, "top_y": 116, "width": 456, "height": 418}, "confidence":0.984094}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 142, "top_y": 314, "width": 618, "height": 221}, "confidence":0.998041}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 104, "top_y": 137, "width":  92, "height":  42}, "confidence":0.942340}
+ ] 
+}, 
+{
+ "frame_id":65, 
+ "filename":"myTraining/batchTest/0924_9_72.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 658, "top_y": 139, "width":  47, "height":  33}, "confidence":0.934080}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 275, "top_y": 352, "width": 548, "height": 256}, "confidence":0.994272}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 292, "top_y": 166, "width":  68, "height":  72}, "confidence":0.667908}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 848, "top_y": 219, "width": 191, "height": 138}, "confidence":0.464021}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x": 586, "top_y": 172, "width":  69, "height":  39}, "confidence":0.990439}
+ ] 
+}, 
+{
+ "frame_id":66, 
+ "filename":"myTraining/batchTest/0924_9_352.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 260, "top_y":  18, "width": 150, "height": 109}, "confidence":0.989671}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 531, "top_y": 238, "width": 182, "height": 267}, "confidence":0.997591}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x": 127, "top_y": 140, "width": 189, "height":  92}, "confidence":0.991413}
+ ] 
+}, 
+{
+ "frame_id":67, 
+ "filename":"myTraining/batchTest/0924_9_62.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 413, "top_y": 195, "width":  56, "height":  40}, "confidence":0.942917}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x":1011, "top_y": 157, "width": 258, "height": 426}, "confidence":0.462439}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 422, "top_y": 382, "width": 326, "height": 219}, "confidence":0.991514}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 135, "top_y": 245, "width":  86, "height":  53}, "confidence":0.911440}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x": 350, "top_y": 237, "width":  74, "height":  40}, "confidence":0.991051}
+ ] 
+}, 
+{
+ "frame_id":68, 
+ "filename":"myTraining/batchTest/0924_9_52.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x":1000, "top_y": 171, "width": 276, "height": 404}, "confidence":0.615545}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 654, "top_y": 328, "width": 128, "height": 163}, "confidence":0.988836}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 519, "top_y": 280, "width": 140, "height":  92}, "confidence":0.966649}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 226, "top_y": 237, "width":  79, "height":  44}, "confidence":0.951242}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x": 348, "top_y": 237, "width":  72, "height":  41}, "confidence":0.993694}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x": 429, "top_y": 200, "width":  34, "height":  39}, "confidence":0.882067}
+ ] 
+}, 
+{
+ "frame_id":69, 
+ "filename":"myTraining/batchTest/0924_9_172.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 297, "top_y": 193, "width": 149, "height":  70}, "confidence":0.986816}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 686, "top_y": 210, "width": 575, "height": 480}, "confidence":0.976255}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 133, "top_y": 313, "width": 634, "height": 221}, "confidence":0.997788}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 102, "top_y": 135, "width":  96, "height":  45}, "confidence":0.902250}
+ ] 
+}, 
+{
+ "frame_id":70, 
+ "filename":"myTraining/batchTest/0924_9_202.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 311, "top_y": 191, "width": 127, "height":  68}, "confidence":0.983608}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 683, "top_y": 205, "width": 585, "height": 501}, "confidence":0.961967}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 129, "top_y": 316, "width": 643, "height": 218}, "confidence":0.997783}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 155, "top_y": 158, "width":  51, "height":  50}, "confidence":0.996962}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 101, "top_y": 137, "width":  89, "height":  38}, "confidence":0.277390}
+ ] 
+}, 
+{
+ "frame_id":71, 
+ "filename":"myTraining/batchTest/0924_9_9.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 341, "top_y":  40, "width":  95, "height":  93}, "confidence":0.908777}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 506, "top_y": 276, "width": 137, "height": 154}, "confidence":0.995735}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x": 129, "top_y": 154, "width": 177, "height":  86}, "confidence":0.992423}
+ ] 
+}, 
+{
+ "frame_id":72, 
+ "filename":"myTraining/batchTest/0924_9_22.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 286, "top_y":   1, "width": 173, "height":  58}, "confidence":0.918036}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 538, "top_y": 205, "width": 265, "height": 224}, "confidence":0.998823}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x": 146, "top_y":  83, "width": 174, "height":  88}, "confidence":0.995179}
+ ] 
+}, 
+{
+ "frame_id":73, 
+ "filename":"myTraining/batchTest/0924_9_156.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 973, "top_y": 218, "width": 289, "height": 181}, "confidence":0.252013}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 507, "top_y": 120, "width": 124, "height": 131}, "confidence":0.996522}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x": 127, "top_y": 153, "width": 180, "height":  87}, "confidence":0.988290}
+ ] 
+}, 
+{
+ "frame_id":74, 
+ "filename":"myTraining/batchTest/0924_9_256.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 278, "top_y":  63, "width": 165, "height":  76}, "confidence":0.993954}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 530, "top_y": 166, "width": 107, "height": 152}, "confidence":0.987836}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x": 127, "top_y": 153, "width": 180, "height":  88}, "confidence":0.990834}
+ ] 
+}, 
+{
+ "frame_id":75, 
+ "filename":"myTraining/batchTest/0924_9_159.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 551, "top_y":  27, "width": 452, "height": 427}, "confidence":0.994362}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 327, "top_y": 170, "width": 107, "height":  87}, "confidence":0.981255}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 138, "top_y": 312, "width": 625, "height": 222}, "confidence":0.997683}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 105, "top_y": 135, "width":  92, "height":  43}, "confidence":0.914980}
+ ] 
+}, 
+{
+ "frame_id":76, 
+ "filename":"myTraining/batchTest/0924_9_106.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 928, "top_y": 158, "width": 133, "height":  66}, "confidence":0.971280}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 713, "top_y":  75, "width":  56, "height":  41}, "confidence":0.962943}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 340, "top_y": 290, "width": 589, "height": 209}, "confidence":0.998630}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 760, "top_y": 151, "width":  75, "height":  62}, "confidence":0.990854}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x": 645, "top_y": 115, "width":  71, "height":  39}, "confidence":0.993198}
+ ] 
+}, 
+{
+ "frame_id":77, 
+ "filename":"myTraining/batchTest/0924_9_96.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x":1091, "top_y": 122, "width": 116, "height":  94}, "confidence":0.893305}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 846, "top_y":  70, "width":  42, "height":  38}, "confidence":0.792261}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 230, "top_y": 303, "width": 602, "height": 219}, "confidence":0.995076}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 777, "top_y": 154, "width": 114, "height": 105}, "confidence":0.972742}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x": 772, "top_y": 109, "width":  62, "height":  39}, "confidence":0.983405}
+ ] 
+}, 
+{
+ "frame_id":78, 
+ "filename":"myTraining/batchTest/0924_9_312.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 261, "top_y":  43, "width": 189, "height":  90}, "confidence":0.993114}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 524, "top_y": 206, "width": 113, "height": 155}, "confidence":0.994623}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 510, "top_y": 113, "width": 134, "height": 100}, "confidence":0.992627}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x": 126, "top_y": 152, "width": 182, "height":  88}, "confidence":0.990401}
+ ] 
+}, 
+{
+ "frame_id":79, 
+ "filename":"myTraining/batchTest/0924_9_302.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 438, "top_y":  31, "width": 577, "height": 426}, "confidence":0.999261}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x":  67, "top_y": 119, "width":  73, "height":  40}, "confidence":0.952946}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 140, "top_y": 313, "width": 623, "height": 221}, "confidence":0.996205}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x":  71, "top_y": 121, "width":  63, "height":  38}, "confidence":0.392998}
+ ] 
+}, 
+{
+ "frame_id":80, 
+ "filename":"myTraining/batchTest/0924_9_309.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 292, "top_y": 124, "width":  64, "height":  36}, "confidence":0.939207}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 256, "top_y": 302, "width": 553, "height": 230}, "confidence":0.990806}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x": 222, "top_y": 159, "width":  78, "height":  38}, "confidence":0.987132}
+ ] 
+}, 
+{
+ "frame_id":81, 
+ "filename":"myTraining/batchTest/0924_9_252.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 424, "top_y":  69, "width": 592, "height": 394}, "confidence":0.998880}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 298, "top_y": 190, "width": 132, "height":  70}, "confidence":0.989506}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x":  67, "top_y": 104, "width":  39, "height":  53}, "confidence":0.580799}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x":  67, "top_y": 106, "width":  39, "height":  48}, "confidence":0.573607}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 133, "top_y": 315, "width": 631, "height": 219}, "confidence":0.995838}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 153, "top_y": 157, "width":  75, "height":  71}, "confidence":0.989756}
+ ] 
+}, 
+{
+ "frame_id":82, 
+ "filename":"myTraining/batchTest/0924_9_196.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 486, "top_y": -24, "width": 531, "height": 517}, "confidence":0.999304}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 297, "top_y": 193, "width": 149, "height":  65}, "confidence":0.980379}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 142, "top_y": 311, "width": 619, "height": 223}, "confidence":0.996818}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 165, "top_y": 174, "width":  98, "height":  61}, "confidence":0.996224}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 105, "top_y": 135, "width":  92, "height":  43}, "confidence":0.962753}
+ ] 
+}, 
+{
+ "frame_id":83, 
+ "filename":"myTraining/batchTest/0924_9_366.jpg", 
+ "objects": [ 
+  {"class_id":3, "name":"worker", "relative_coordinates":{"left_x": 274, "top_y": 147, "width":  20, "height":  60}, "confidence":0.753165}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 289, "top_y":  57, "width": 153, "height":  83}, "confidence":0.984430}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 531, "top_y": 122, "width": 127, "height": 129}, "confidence":0.997122}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 508, "top_y": 234, "width": 124, "height": 167}, "confidence":0.995103}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x": 126, "top_y": 152, "width": 182, "height":  87}, "confidence":0.988810}
+ ] 
+}, 
+{
+ "frame_id":84, 
+ "filename":"myTraining/batchTest/0924_9_29.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 581, "top_y": 182, "width": 329, "height": 252}, "confidence":0.997109}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x": 121, "top_y":  40, "width": 177, "height":  90}, "confidence":0.992400}
+ ] 
+}, 
+{
+ "frame_id":85, 
+ "filename":"myTraining/batchTest/0924_9_246.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 705, "top_y":  23, "width": 307, "height": 460}, "confidence":0.998678}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 298, "top_y": 191, "width": 133, "height":  71}, "confidence":0.981988}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x":  69, "top_y": 108, "width":  36, "height":  47}, "confidence":0.973401}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 134, "top_y": 316, "width": 634, "height": 218}, "confidence":0.997024}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 153, "top_y": 146, "width":  53, "height":  55}, "confidence":0.992682}
+ ] 
+}, 
+{
+ "frame_id":86, 
+ "filename":"myTraining/batchTest/0924_9_49.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 337, "top_y": 137, "width":  55, "height":  53}, "confidence":0.787056}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 633, "top_y": 302, "width": 231, "height": 192}, "confidence":0.998579}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 109, "top_y": 193, "width":  94, "height":  55}, "confidence":0.935942}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 463, "top_y": 255, "width": 163, "height": 108}, "confidence":0.921030}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x": 234, "top_y": 193, "width": 100, "height":  51}, "confidence":0.987884}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x": 335, "top_y": 137, "width":  56, "height":  52}, "confidence":0.492227}
+ ] 
+}, 
+{
+ "frame_id":87, 
+ "filename":"myTraining/batchTest/0924_9_212.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 240, "top_y":  42, "width": 201, "height":  88}, "confidence":0.983748}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 529, "top_y": 150, "width": 110, "height": 135}, "confidence":0.990031}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x": 125, "top_y": 152, "width": 183, "height":  87}, "confidence":0.988734}
+ ] 
+}, 
+{
+ "frame_id":88, 
+ "filename":"myTraining/batchTest/0924_9_169.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 719, "top_y": 139, "width": 429, "height": 406}, "confidence":0.992756}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 331, "top_y": 174, "width": 107, "height":  88}, "confidence":0.989399}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 140, "top_y": 313, "width": 621, "height": 222}, "confidence":0.997788}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 103, "top_y": 135, "width":  94, "height":  44}, "confidence":0.933208}
+ ] 
+}, 
+{
+ "frame_id":89, 
+ "filename":"myTraining/batchTest/0924_9_59.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 411, "top_y": 200, "width":  57, "height":  38}, "confidence":0.972459}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x":1014, "top_y": 168, "width": 256, "height": 406}, "confidence":0.349355}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 549, "top_y": 354, "width": 216, "height": 207}, "confidence":0.998267}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 168, "top_y": 242, "width":  79, "height":  53}, "confidence":0.741785}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x": 351, "top_y": 238, "width":  72, "height":  40}, "confidence":0.994296}
+ ] 
+}, 
+{
+ "frame_id":90, 
+ "filename":"myTraining/batchTest/0924_9_362.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 248, "top_y":   9, "width": 147, "height": 106}, "confidence":0.989175}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 498, "top_y": 240, "width": 191, "height": 224}, "confidence":0.990034}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x": 127, "top_y": 141, "width": 189, "height":  91}, "confidence":0.991136}
+ ] 
+}, 
+{
+ "frame_id":91, 
+ "filename":"myTraining/batchTest/0924_9_296.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 437, "top_y":  56, "width": 573, "height": 411}, "confidence":0.999498}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x":  57, "top_y": 107, "width":  53, "height":  49}, "confidence":0.965006}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 149, "top_y": 313, "width": 605, "height": 221}, "confidence":0.993772}
+ ] 
+}, 
+{
+ "frame_id":92, 
+ "filename":"myTraining/batchTest/0924_9_282.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 462, "top_y":  35, "width": 529, "height": 459}, "confidence":0.998245}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x":  64, "top_y": 121, "width":  78, "height":  39}, "confidence":0.962409}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 143, "top_y": 316, "width": 618, "height": 219}, "confidence":0.994435}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x":  68, "top_y": 123, "width":  66, "height":  38}, "confidence":0.371772}
+ ] 
+}, 
+{
+ "frame_id":93, 
+ "filename":"myTraining/batchTest/0924_9_149.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 689, "top_y": 198, "width": 478, "height": 427}, "confidence":0.992010}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 304, "top_y": 195, "width": 134, "height":  57}, "confidence":0.961476}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 135, "top_y": 316, "width": 630, "height": 218}, "confidence":0.998043}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 106, "top_y": 137, "width":  91, "height":  42}, "confidence":0.968375}
+ ] 
+}, 
+{
+ "frame_id":94, 
+ "filename":"myTraining/batchTest/0924_9_132.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 556, "top_y":  -2, "width": 453, "height": 473}, "confidence":0.993156}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 313, "top_y": 191, "width": 122, "height":  71}, "confidence":0.984669}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 134, "top_y": 314, "width": 631, "height": 224}, "confidence":0.996878}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x":  86, "top_y": 141, "width": 103, "height":  39}, "confidence":0.992371}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 913, "top_y": 257, "width": 132, "height": 141}, "confidence":0.747575}
+ ] 
+}, 
+{
+ "frame_id":95, 
+ "filename":"myTraining/batchTest/0924_9_269.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 474, "top_y": -10, "width": 539, "height": 497}, "confidence":0.999513}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x":  68, "top_y": 108, "width":  37, "height":  48}, "confidence":0.883254}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 136, "top_y": 311, "width": 626, "height": 224}, "confidence":0.992699}
+ ] 
+}, 
+{
+ "frame_id":96, 
+ "filename":"myTraining/batchTest/0924_9_349.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 315, "top_y":  17, "width":  92, "height": 105}, "confidence":0.977175}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 521, "top_y": 262, "width": 213, "height": 261}, "confidence":0.992705}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x": 127, "top_y": 138, "width": 189, "height":  95}, "confidence":0.991083}
+ ] 
+}, 
+{
+ "frame_id":97, 
+ "filename":"myTraining/batchTest/0924_9_249.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 525, "top_y":  10, "width": 504, "height": 469}, "confidence":0.998007}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 303, "top_y": 187, "width": 125, "height":  78}, "confidence":0.982242}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x":  50, "top_y": 108, "width":  55, "height":  50}, "confidence":0.944430}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 130, "top_y": 313, "width": 641, "height": 221}, "confidence":0.995141}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 150, "top_y": 153, "width":  52, "height":  59}, "confidence":0.993364}
+ ] 
+}, 
+{
+ "frame_id":98, 
+ "filename":"myTraining/batchTest/0924_9_179.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 285, "top_y":  51, "width": 160, "height":  83}, "confidence":0.950073}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 524, "top_y": 132, "width": 113, "height": 132}, "confidence":0.995706}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x": 127, "top_y": 154, "width": 183, "height":  87}, "confidence":0.985581}
+ ] 
+}, 
+{
+ "frame_id":99, 
+ "filename":"myTraining/batchTest/0924_9_292.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 419, "top_y":  62, "width": 579, "height": 405}, "confidence":0.998957}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 137, "top_y": 313, "width": 627, "height": 222}, "confidence":0.994533}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x":  60, "top_y": 113, "width":  59, "height":  43}, "confidence":0.985119}
+ ] 
+}, 
+{
+ "frame_id":100, 
+ "filename":"myTraining/batchTest/0924_9_229.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 658, "top_y": 133, "width": 612, "height": 492}, "confidence":0.986214}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 301, "top_y": 192, "width": 139, "height":  65}, "confidence":0.970759}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 136, "top_y": 315, "width": 632, "height": 219}, "confidence":0.997671}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 122, "top_y": 139, "width":  70, "height":  38}, "confidence":0.993831}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 175, "top_y": 168, "width":  87, "height":  64}, "confidence":0.988776}
+ ] 
+}, 
+{
+ "frame_id":101, 
+ "filename":"myTraining/batchTest/0924_9_66.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 504, "top_y": 149, "width":  47, "height":  42}, "confidence":0.860456}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x": 505, "top_y": 150, "width":  45, "height":  39}, "confidence":0.291345}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 326, "top_y": 344, "width": 451, "height": 252}, "confidence":0.996732}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 687, "top_y": 226, "width": 171, "height": 135}, "confidence":0.711701}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 174, "top_y": 202, "width":  89, "height":  51}, "confidence":0.334549}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x": 436, "top_y": 190, "width":  64, "height":  40}, "confidence":0.940089}
+ ] 
+}, 
+{
+ "frame_id":102, 
+ "filename":"myTraining/batchTest/0924_9_332.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 327, "top_y":  10, "width": 120, "height": 116}, "confidence":0.973235}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 194, "top_y": 347, "width": 395, "height": 344}, "confidence":0.993499}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x": 173, "top_y": 154, "width": 162, "height":  82}, "confidence":0.980048}
+ ] 
+}, 
+{
+ "frame_id":103, 
+ "filename":"myTraining/batchTest/0924_9_299.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 408, "top_y":  72, "width": 597, "height": 392}, "confidence":0.998028}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 137, "top_y": 314, "width": 625, "height": 218}, "confidence":0.995833}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x":  61, "top_y": 110, "width":  65, "height":  46}, "confidence":0.935653}
+ ] 
+}, 
+{
+ "frame_id":104, 
+ "filename":"myTraining/batchTest/0924_9_216.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 719, "top_y":  72, "width": 312, "height": 431}, "confidence":0.989628}, 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 299, "top_y": 198, "width": 136, "height":  53}, "confidence":0.848187}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 139, "top_y": 315, "width": 624, "height": 219}, "confidence":0.997933}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x":  47, "top_y": 146, "width":  83, "height":  34}, "confidence":0.983648}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 138, "top_y": 136, "width":  61, "height":  44}, "confidence":0.941256}
+ ] 
+}, 
+{
+ "frame_id":105, 
+ "filename":"myTraining/batchTest/0924_9_36.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 521, "top_y": 207, "width": 400, "height": 270}, "confidence":0.998231}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x":  -0, "top_y":  41, "width": 151, "height":  91}, "confidence":0.969162}
+ ] 
+}, 
+{
+ "frame_id":106, 
+ "filename":"myTraining/batchTest/0924_9_186.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 723, "top_y":  74, "width": 299, "height": 421}, "confidence":0.987395}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 139, "top_y": 313, "width": 623, "height": 222}, "confidence":0.997890}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 105, "top_y": 136, "width":  92, "height":  43}, "confidence":0.958086}
+ ] 
+}, 
+{
+ "frame_id":107, 
+ "filename":"myTraining/batchTest/0924_9_192.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 456, "top_y":  19, "width": 559, "height": 468}, "confidence":0.999362}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 129, "top_y": 310, "width": 639, "height": 224}, "confidence":0.996297}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 105, "top_y": 135, "width":  92, "height":  44}, "confidence":0.965342}
+ ] 
+}, 
+{
+ "frame_id":108, 
+ "filename":"myTraining/batchTest/0924_9_359.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"excavator", "relative_coordinates":{"left_x": 268, "top_y":   6, "width": 117, "height": 116}, "confidence":0.986462}, 
+  {"class_id":1, "name":"truck", "relative_coordinates":{"left_x": 502, "top_y": 243, "width": 184, "height": 222}, "confidence":0.989875}, 
+  {"class_id":0, "name":"compactor", "relative_coordinates":{"left_x": 126, "top_y": 141, "width": 190, "height":  91}, "confidence":0.990557}
+ ] 
+}
+]

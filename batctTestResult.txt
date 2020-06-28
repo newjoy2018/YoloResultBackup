@@ -1,0 +1,771 @@
+net.optimized_memory = 0 
+mini_batch = 1, batch = 64, time_steps = 1, train = 0 
+nms_kind: greedynms (1), beta = 0.600000 
+nms_kind: greedynms (1), beta = 0.600000 
+nms_kind: greedynms (1), beta = 0.600000 
+
+ seen 64, trained: 108 K-images (1 Kilo-batches_64) 
+folder input=myTraining/batchTest/ and output=myTraining/batchTest_output/
+Start processing myTraining/batchTest/0924_9_39.jpg
+myTraining/batchTest/0924_9_39.jpg: Predicted in 97.976000 milli-seconds.
+compactor: 94.308380%	left_x:    2	top_y:   46	width:   82	height:   88
+truck: 86.474815%	left_x:  310	top_y:  153	width:  204	height:  188
+truck: 99.740913%	left_x:  521	top_y:  223	width:  397	height:  283
+End
+Start processing myTraining/batchTest/0924_9_339.jpg
+myTraining/batchTest/0924_9_339.jpg: Predicted in 99.396000 milli-seconds.
+compactor: 99.328918%	left_x:  134	top_y:  140	width:  183	height:   90
+excavator: 98.843040%	left_x:  321	top_y:   50	width:  156	height:   98
+truck: 99.680855%	left_x:  334	top_y:  297	width:  361	height:  332
+End
+Start processing myTraining/batchTest/0924_9_112.jpg
+myTraining/batchTest/0924_9_112.jpg: Predicted in 98.601000 milli-seconds.
+compactor: 96.336227%	left_x:  127	top_y:  153	width:  186	height:   90
+truck: 96.984024%	left_x:  176	top_y:  118	width:   82	height:   86
+truck: 99.275421%	left_x:  243	top_y:  114	width:  261	height:   94
+excavator: 91.743645%	left_x:  301	top_y:   52	width:  141	height:   75
+truck: 99.614609%	left_x:  489	top_y:  116	width:  136	height:  112
+End
+Start processing myTraining/batchTest/0924_9_199.jpg
+myTraining/batchTest/0924_9_199.jpg: Predicted in 94.348000 milli-seconds.
+truck: 88.542267%	left_x:  106	top_y:  137	width:   91	height:   40
+truck: 99.774971%	left_x:  135	top_y:  315	width:  632	height:  219
+truck: 99.565598%	left_x:  150	top_y:  165	width:   71	height:   54
+excavator: 95.553925%	left_x:  303	top_y:  196	width:  135	height:   57
+excavator: 99.579147%	left_x:  706	top_y:  143	width:  475	height:  447
+End
+Start processing myTraining/batchTest/0924_9_319.jpg
+myTraining/batchTest/0924_9_319.jpg: Predicted in 92.805000 milli-seconds.
+truck: 99.710190%	left_x:  359	top_y:  285	width:  260	height:  190
+compactor: 99.213730%	left_x:  421	top_y:  168	width:   64	height:   37
+excavator: 75.695732%	left_x:  474	top_y:  130	width:   44	height:   37
+compactor: 37%	(left_x:  474   top_y:  130   width:   44   height:   37)
+excavator: 27.319899%	left_x:  723	top_y:  167	width:   97	height:   71
+End
+Start processing myTraining/batchTest/0924_9_126.jpg
+myTraining/batchTest/0924_9_126.jpg: Predicted in 92.677000 milli-seconds.
+compactor: 92.246742%	left_x:    7	top_y:  159	width:   71	height:   38
+truck: 99.752075%	left_x:  121	top_y:  315	width:  623	height:  224
+excavator: 99.073769%	left_x:  323	top_y:  192	width:  118	height:   70
+excavator: 99.326958%	left_x:  560	top_y:   33	width:  446	height:  437
+truck: 98.471291%	left_x:  986	top_y:  266	width:  201	height:  123
+End
+Start processing myTraining/batchTest/0924_9_32.jpg
+myTraining/batchTest/0924_9_32.jpg: Predicted in 92.588000 milli-seconds.
+compactor: 97.294571%	left_x:  104	top_y:   47	width:  191	height:   88
+truck: 99.385414%	left_x:  611	top_y:  213	width:  344	height:  226
+End
+Start processing myTraining/batchTest/0924_9_122.jpg
+myTraining/batchTest/0924_9_122.jpg: Predicted in 92.420000 milli-seconds.
+compactor: 98.939529%	left_x:   43	top_y:  144	width:   85	height:   40
+truck: 99.736229%	left_x:  121	top_y:  300	width:  589	height:  221
+excavator: 96.905914%	left_x:  360	top_y:  180	width:  124	height:   66
+excavator: 99.722679%	left_x:  638	top_y:    5	width:  409	height:  465
+truck: 97.770004%	left_x: 1030	top_y:  259	width:  191	height:  114
+End
+Start processing myTraining/batchTest/0924_9_276.jpg
+myTraining/batchTest/0924_9_276.jpg: Predicted in 92.415000 milli-seconds.
+excavator: 79.887596%	left_x:   59	top_y:  110	width:   75	height:   48
+compactor: 71.095039%	left_x:   64	top_y:  111	width:   71	height:   43
+truck: 98.692963%	left_x:  139	top_y:  314	width:  622	height:  220
+excavator: 99.391861%	left_x:  564	top_y:   -5	width:  439	height:  474
+truck: 99.175819%	left_x: 1011	top_y:  260	width:  246	height:  152
+End
+Start processing myTraining/batchTest/0924_9_6.jpg
+myTraining/batchTest/0924_9_6.jpg: Predicted in 92.526000 milli-seconds.
+compactor: 99.077095%	left_x:  128	top_y:  154	width:  179	height:   86
+excavator: 99.295822%	left_x:  316	top_y:   47	width:  124	height:   91
+truck: 99.280220%	left_x:  503	top_y:  261	width:  135	height:  151
+truck: 95.925346%	left_x:  540	top_y:  147	width:  112	height:  126
+End
+Start processing myTraining/batchTest/0924_9_89.jpg
+myTraining/batchTest/0924_9_89.jpg: Predicted in 92.354000 milli-seconds.
+truck: 99.686844%	left_x:  150	top_y:  343	width:  555	height:  191
+truck: 83.492683%	left_x:  720	top_y:  211	width:  266	height:  121
+compactor: 98.000488%	left_x:  771	top_y:  135	width:   63	height:   40
+excavator: 97.961761%	left_x:  839	top_y:   98	width:   50	height:   35
+End
+Start processing myTraining/batchTest/0924_9_116.jpg
+myTraining/batchTest/0924_9_116.jpg: Predicted in 91.924000 milli-seconds.
+truck: 99.837051%	left_x:  172	top_y:  275	width:  584	height:  208
+compactor: 97.910080%	left_x:  269	top_y:  120	width:   68	height:   42
+excavator: 95.217369%	left_x:  332	top_y:   88	width:   60	height:   33
+truck: 99.320564%	left_x:  392	top_y:  110	width:   61	height:   47
+excavator: 31.672657%	left_x:  557	top_y:  157	width:  111	height:   66
+excavator: 97.402153%	left_x:  820	top_y:  -25	width:  425	height:  508
+End
+Start processing myTraining/batchTest/0924_9_79.jpg
+myTraining/batchTest/0924_9_79.jpg: Predicted in 91.733000 milli-seconds.
+compactor: 97.839874%	left_x:  126	top_y:  157	width:  188	height:   86
+truck: 96.946152%	left_x:  179	top_y:  108	width:  283	height:   97
+truck: 97.196594%	left_x:  476	top_y:  107	width:  145	height:  115
+End
+Start processing myTraining/batchTest/0924_9_239.jpg
+myTraining/batchTest/0924_9_239.jpg: Predicted in 92.006000 milli-seconds.
+excavator: 94.788368%	left_x:   63	top_y:  113	width:   63	height:   45
+truck: 99.735382%	left_x:  129	top_y:  317	width:  641	height:  217
+truck: 95.217751%	left_x:  150	top_y:  135	width:   45	height:   49
+excavator: 99.282570%	left_x:  682	top_y:  216	width:  475	height:  394
+End
+Start processing myTraining/batchTest/0924_9_346.jpg
+myTraining/batchTest/0924_9_346.jpg: Predicted in 93.216000 milli-seconds.
+compactor: 99.045540%	left_x:  127	top_y:  138	width:  189	height:   95
+excavator: 98.061844%	left_x:  297	top_y:   20	width:  179	height:  107
+truck: 99.673691%	left_x:  475	top_y:  275	width:  271	height:  271
+End
+Start processing myTraining/batchTest/0924_9_26.jpg
+myTraining/batchTest/0924_9_26.jpg: Predicted in 93.405000 milli-seconds.
+compactor: 98.718956%	left_x:  111	top_y:   27	width:  180	height:  103
+excavator: 35.228050%	left_x:  288	top_y:    0	width:  140	height:   16
+truck: 99.656219%	left_x:  538	top_y:  171	width:  295	height:  220
+End
+Start processing myTraining/batchTest/0924_9_86.jpg
+myTraining/batchTest/0924_9_86.jpg: Predicted in 92.490000 milli-seconds.
+truck: 92.401390%	left_x:   63	top_y:  179	width:  242	height:  117
+truck: 99.637367%	left_x:  151	top_y:  342	width:  559	height:  192
+compactor: 97.374435%	left_x:  770	top_y:  133	width:   68	height:   42
+truck: 99.494362%	left_x:  787	top_y:  210	width:  346	height:  142
+excavator: 91.490616%	left_x:  847	top_y:   98	width:   42	height:   35
+End
+Start processing myTraining/batchTest/0924_9_2.jpg
+myTraining/batchTest/0924_9_2.jpg: Predicted in 92.889000 milli-seconds.
+compactor: 98.844696%	left_x:  126	top_y:  153	width:  182	height:   86
+worker: 86.646591%	left_x:  274	top_y:  148	width:   20	height:   58
+excavator: 99.124535%	left_x:  310	top_y:   50	width:  132	height:   86
+truck: 99.165863%	left_x:  504	top_y:  244	width:  132	height:  159
+truck: 99.471107%	left_x:  537	top_y:  126	width:  122	height:  127
+End
+Start processing myTraining/batchTest/0924_9_109.jpg
+myTraining/batchTest/0924_9_109.jpg: Predicted in 92.748000 milli-seconds.
+truck: 99.616806%	left_x:  343	top_y:  281	width:  564	height:  207
+compactor: 98.538788%	left_x:  560	top_y:  118	width:   70	height:   38
+excavator: 94.863167%	left_x:  622	top_y:   77	width:   59	height:   41
+truck: 99.495323%	left_x:  697	top_y:  130	width:   50	height:   69
+excavator: 98.291122%	left_x:  844	top_y:  153	width:  124	height:   67
+End
+Start processing myTraining/batchTest/0924_9_76.jpg
+myTraining/batchTest/0924_9_76.jpg: Predicted in 92.384000 milli-seconds.
+truck: 99.742981%	left_x:  273	top_y:  331	width:  591	height:  209
+truck: 63.573223%	left_x:  410	top_y:  140	width:  103	height:   72
+compactor: 97.609505%	left_x:  767	top_y:  135	width:   64	height:   40
+excavator: 95.487328%	left_x:  834	top_y:   97	width:   52	height:   37
+truck: 97.513748%	left_x: 1027	top_y:  183	width:  199	height:  142
+End
+Start processing myTraining/batchTest/0924_9_266.jpg
+myTraining/batchTest/0924_9_266.jpg: Predicted in 92.625000 milli-seconds.
+excavator: 70.971191%	left_x:   60	top_y:  112	width:   69	height:   45
+compactor: 80.289009%	left_x:   66	top_y:  114	width:   65	height:   42
+truck: 99.128151%	left_x:  139	top_y:  313	width:  625	height:  222
+excavator: 99.943634%	left_x:  498	top_y:   -7	width:  524	height:  489
+End
+Start processing myTraining/batchTest/0924_9_99.jpg
+myTraining/batchTest/0924_9_99.jpg: Predicted in 92.435000 milli-seconds.
+truck: 99.520645%	left_x:  302	top_y:  303	width:  592	height:  219
+compactor: 99.257454%	left_x:  762	top_y:  114	width:   65	height:   40
+truck: 99.371201%	left_x:  815	top_y:  152	width:   97	height:   92
+excavator: 47.579193%	left_x:  841	top_y:   76	width:   44	height:   39
+compactor: 46%	(left_x:  841   top_y:   76   width:   44   height:   39)
+excavator: 98.938057%	left_x: 1042	top_y:  150	width:  146	height:   74
+End
+Start processing myTraining/batchTest/0924_9_286.jpg
+myTraining/batchTest/0924_9_286.jpg: Predicted in 91.299000 milli-seconds.
+excavator: 88.610634%	left_x:   65	top_y:  117	width:   68	height:   41
+truck: 99.004433%	left_x:  137	top_y:  312	width:  627	height:  222
+excavator: 99.954689%	left_x:  432	top_y:   52	width:  591	height:  405
+End
+Start processing myTraining/batchTest/0924_9_19.jpg
+myTraining/batchTest/0924_9_19.jpg: Predicted in 92.096000 milli-seconds.
+compactor: 99.506485%	left_x:  143	top_y:  104	width:  175	height:   98
+excavator: 99.289268%	left_x:  287	top_y:    5	width:  171	height:   85
+truck: 99.796982%	left_x:  531	top_y:  234	width:  206	height:  192
+End
+Start processing myTraining/batchTest/0924_9_329.jpg
+myTraining/batchTest/0924_9_329.jpg: Predicted in 92.555000 milli-seconds.
+compactor: 99.384155%	left_x:  332	top_y:  216	width:  107	height:   53
+truck: 99.730804%	left_x:  332	top_y:  339	width:  227	height:  235
+compactor: 40.602356%	left_x:  411	top_y:  148	width:   81	height:   61
+excavator: 96.644394%	left_x:  414	top_y:  147	width:   76	height:   62
+End
+Start processing myTraining/batchTest/0924_9_279.jpg
+myTraining/batchTest/0924_9_279.jpg: Predicted in 92.658000 milli-seconds.
+excavator: 96.964523%	left_x:   65	top_y:  125	width:   78	height:   34
+truck: 98.964470%	left_x:  140	top_y:  313	width:  622	height:  221
+excavator: 99.508369%	left_x:  558	top_y:    0	width:  450	height:  467
+truck: 99.836891%	left_x: 1014	top_y:  267	width:  256	height:  153
+End
+Start processing myTraining/batchTest/0924_9_119.jpg
+myTraining/batchTest/0924_9_119.jpg: Predicted in 92.919000 milli-seconds.
+compactor: 98.852402%	left_x:  120	top_y:  126	width:   78	height:   42
+truck: 99.696960%	left_x:  125	top_y:  281	width:  575	height:  217
+truck: 98.725807%	left_x:  185	top_y:  114	width:  100	height:   38
+compactor: 29.568565%	left_x:  188	top_y:  108	width:   88	height:   39
+excavator: 94.858459%	left_x:  191	top_y:   85	width:   62	height:   38
+excavator: 97.224716%	left_x:  430	top_y:  158	width:  116	height:   67
+excavator: 99.259155%	left_x:  673	top_y:  -32	width:  466	height:  495
+End
+Start processing myTraining/batchTest/0924_9_336.jpg
+myTraining/batchTest/0924_9_336.jpg: Predicted in 92.892000 milli-seconds.
+compactor: 99.637070%	left_x:  131	top_y:  161	width:  188	height:   90
+truck: 99.689903%	left_x:  253	top_y:  346	width:  420	height:  355
+excavator: 96.989822%	left_x:  316	top_y:   68	width:  171	height:   88
+excavator: 73.957321%	left_x: 1069	top_y:  171	width:  200	height:  245
+End
+Start processing myTraining/batchTest/0924_9_162.jpg
+myTraining/batchTest/0924_9_162.jpg: Predicted in 92.287000 milli-seconds.
+truck: 93.376335%	left_x:  105	top_y:  136	width:   91	height:   43
+truck: 99.690010%	left_x:  130	top_y:  311	width:  640	height:  224
+excavator: 97.926102%	left_x:  324	top_y:  187	width:  112	height:   74
+excavator: 99.819443%	left_x:  521	top_y:   -4	width:  505	height:  484
+End
+Start processing myTraining/batchTest/0924_9_92.jpg
+myTraining/batchTest/0924_9_92.jpg: Predicted in 92.948000 milli-seconds.
+truck: 99.520821%	left_x:  178	top_y:  341	width:  514	height:  193
+truck: 99.721756%	left_x:  719	top_y:  201	width:  185	height:  126
+compactor: 98.150513%	left_x:  770	top_y:  136	width:   64	height:   38
+excavator: 94.451294%	left_x:  832	top_y:   98	width:   57	height:   35
+excavator: 92.622810%	left_x: 1108	top_y:  147	width:  115	height:  102
+End
+Start processing myTraining/batchTest/0924_9_356.jpg
+myTraining/batchTest/0924_9_356.jpg: Predicted in 92.944000 milli-seconds.
+compactor: 99.143234%	left_x:  127	top_y:  153	width:  180	height:   86
+excavator: 99.285309%	left_x:  285	top_y:   60	width:  158	height:   79
+truck: 99.461098%	left_x:  507	top_y:  219	width:  136	height:  165
+truck: 99.686203%	left_x:  523	top_y:  116	width:  125	height:  115
+End
+Start processing myTraining/batchTest/0924_9_182.jpg
+myTraining/batchTest/0924_9_182.jpg: Predicted in 92.211000 milli-seconds.
+excavator: 56.124027%	left_x:   32	top_y:  108	width:   64	height:   48
+truck: 95.768013%	left_x:  104	top_y:  136	width:   92	height:   43
+truck: 99.772438%	left_x:  134	top_y:  314	width:  632	height:  221
+excavator: 99.389160%	left_x:  693	top_y:  207	width:  446	height:  377
+End
+Start processing myTraining/batchTest/0924_9_142.jpg
+myTraining/batchTest/0924_9_142.jpg: Predicted in 92.561000 milli-seconds.
+truck: 96.140579%	left_x:  105	top_y:  137	width:   91	height:   43
+truck: 99.812057%	left_x:  140	top_y:  315	width:  622	height:  219
+excavator: 98.064949%	left_x:  308	top_y:  191	width:  130	height:   68
+End
+Start processing myTraining/batchTest/0924_9_206.jpg
+myTraining/batchTest/0924_9_206.jpg: Predicted in 92.733000 milli-seconds.
+excavator: 95.778122%	left_x:   54	top_y:  111	width:   69	height:   46
+truck: 99.774048%	left_x:  133	top_y:  317	width:  636	height:  217
+truck: 98.294945%	left_x:  159	top_y:  141	width:   44	height:   50
+excavator: 99.145462%	left_x:  321	top_y:  173	width:  115	height:   83
+excavator: 99.525948%	left_x:  698	top_y:  211	width:  525	height:  476
+End
+Start processing myTraining/batchTest/0924_9_262.jpg
+myTraining/batchTest/0924_9_262.jpg: Predicted in 92.375000 milli-seconds.
+excavator: 80.498940%	left_x:   58	top_y:  117	width:   75	height:   39
+truck: 99.273880%	left_x:  142	top_y:  311	width:  617	height:  224
+excavator: 99.940300%	left_x:  458	top_y:  -12	width:  572	height:  503
+End
+Start processing myTraining/batchTest/0924_9_16.jpg
+myTraining/batchTest/0924_9_16.jpg: Predicted in 91.985000 milli-seconds.
+compactor: 99.228065%	left_x:  127	top_y:  153	width:  179	height:   86
+excavator: 97.749992%	left_x:  317	top_y:   60	width:  126	height:   77
+truck: 99.778381%	left_x:  514	top_y:  297	width:  179	height:  171
+excavator: 99.106911%	left_x:  934	top_y:  163	width:  337	height:  245
+End
+Start processing myTraining/batchTest/0924_9_42.jpg
+myTraining/batchTest/0924_9_42.jpg: Predicted in 92.358000 milli-seconds.
+compactor: 97.663742%	left_x:    3	top_y:   92	width:  113	height:   77
+excavator: 96.395912%	left_x:  122	top_y:    6	width:  105	height:   69
+truck: 89.359924%	left_x:  307	top_y:  200	width:  210	height:  163
+truck: 99.476425%	left_x:  512	top_y:  253	width:  399	height:  255
+End
+Start processing myTraining/batchTest/0924_9_342.jpg
+myTraining/batchTest/0924_9_342.jpg: Predicted in 92.441000 milli-seconds.
+compactor: 99.021240%	left_x:  126	top_y:  138	width:  190	height:   95
+excavator: 98.504509%	left_x:  303	top_y:   46	width:  166	height:   87
+truck: 99.753311%	left_x:  421	top_y:  291	width:  313	height:  288
+End
+Start processing myTraining/batchTest/0924_9_139.jpg
+myTraining/batchTest/0924_9_139.jpg: Predicted in 92.645000 milli-seconds.
+truck: 97.253403%	left_x:  105	top_y:  137	width:   91	height:   42
+truck: 99.805519%	left_x:  140	top_y:  315	width:  622	height:  220
+excavator: 93.441673%	left_x:  301	top_y:  198	width:  136	height:   54
+End
+Start processing myTraining/batchTest/0924_9_232.jpg
+myTraining/batchTest/0924_9_232.jpg: Predicted in 92.370000 milli-seconds.
+truck: 97.649345%	left_x:  128	top_y:  137	width:   64	height:   41
+truck: 99.763435%	left_x:  135	top_y:  314	width:  633	height:  221
+excavator: 98.867210%	left_x:  315	top_y:  176	width:  120	height:   76
+End
+Start processing myTraining/batchTest/0924_9_176.jpg
+myTraining/batchTest/0924_9_176.jpg: Predicted in 93.019000 milli-seconds.
+truck: 96.861961%	left_x:  105	top_y:  135	width:   92	height:   44
+truck: 99.740829%	left_x:  132	top_y:  314	width:  635	height:  220
+excavator: 98.329636%	left_x:  301	top_y:  191	width:  138	height:   73
+excavator: 99.639496%	left_x:  671	top_y:  163	width:  527	height:  543
+End
+Start processing myTraining/batchTest/0924_9_316.jpg
+myTraining/batchTest/0924_9_316.jpg: Predicted in 92.653000 milli-seconds.
+truck: 99.583115%	left_x:  331	top_y:  285	width:  385	height:  226
+compactor: 99.544823%	left_x:  397	top_y:  170	width:   72	height:   38
+compactor: 95.410393%	left_x:  467	top_y:  128	width:   29	height:   41
+End
+Start processing myTraining/batchTest/0924_9_326.jpg
+myTraining/batchTest/0924_9_326.jpg: Predicted in 93.446000 milli-seconds.
+worker: 61.184837%	left_x:    3	top_y:  298	width:   35	height:   53
+worker: 97.763596%	left_x:   29	top_y:  286	width:   22	height:   73
+truck: 99.769371%	left_x:  433	top_y:  320	width:  139	height:  181
+compactor: 99.285400%	left_x:  447	top_y:  240	width:   73	height:   38
+excavator: 97.019516%	left_x:  506	top_y:  207	width:   47	height:   33
+End
+Start processing myTraining/batchTest/0924_9_236.jpg
+myTraining/batchTest/0924_9_236.jpg: Predicted in 92.088000 milli-seconds.
+truck: 99.759918%	left_x:  134	top_y:  315	width:  635	height:  219
+truck: 96.489136%	left_x:  142	top_y:  138	width:   54	height:   42
+excavator: 71.504875%	left_x:  689	top_y:  209	width:  554	height:  443
+End
+Start processing myTraining/batchTest/0924_9_82.jpg
+myTraining/batchTest/0924_9_82.jpg: Predicted in 93.206000 milli-seconds.
+truck: 99.690399%	left_x:  264	top_y:  334	width:  533	height:  205
+truck: 83.209160%	left_x:  283	top_y:  158	width:  154	height:   92
+compactor: 95.414169%	left_x:  774	top_y:  133	width:   71	height:   43
+excavator: 95.090523%	left_x:  848	top_y:   95	width:   50	height:   39
+truck: 98.352135%	left_x: 1049	top_y:  209	width:  158	height:  126
+End
+Start processing myTraining/batchTest/0924_9_226.jpg
+myTraining/batchTest/0924_9_226.jpg: Predicted in 91.873000 milli-seconds.
+excavator: 96.212181%	left_x:   69	top_y:  104	width:   37	height:   52
+truck: 96.387383%	left_x:  112	top_y:  138	width:   77	height:   37
+truck: 99.731720%	left_x:  139	top_y:  315	width:  627	height:  219
+truck: 98.291534%	left_x:  168	top_y:  158	width:   56	height:   54
+excavator: 96.301743%	left_x:  304	top_y:  188	width:  123	height:   74
+excavator: 99.337181%	left_x:  546	top_y:  -17	width:  472	height:  498
+End
+Start processing myTraining/batchTest/0924_9_129.jpg
+myTraining/batchTest/0924_9_129.jpg: Predicted in 93.978000 milli-seconds.
+truck: 76.099342%	left_x:   56	top_y:  145	width:  104	height:   34
+truck: 99.672989%	left_x:  125	top_y:  317	width:  646	height:  223
+excavator: 98.972404%	left_x:  323	top_y:  184	width:  114	height:   80
+excavator: 99.751923%	left_x:  535	top_y:   45	width:  477	height:  420
+End
+Start processing myTraining/batchTest/0924_9_102.jpg
+myTraining/batchTest/0924_9_102.jpg: Predicted in 93.198000 milli-seconds.
+truck: 99.811134%	left_x:  322	top_y:  296	width:  587	height:  221
+compactor: 98.756615%	left_x:  732	top_y:  116	width:   68	height:   39
+truck: 98.827400%	left_x:  803	top_y:  148	width:   94	height:   89
+excavator: 83.578720%	left_x:  810	top_y:   83	width:   44	height:   33
+excavator: 92.931580%	left_x: 1009	top_y:  166	width:  141	height:   59
+End
+Start processing myTraining/batchTest/0924_9_152.jpg
+myTraining/batchTest/0924_9_152.jpg: Predicted in 93.309000 milli-seconds.
+truck: 96.632805%	left_x:  105	top_y:  137	width:   91	height:   41
+truck: 99.789139%	left_x:  138	top_y:  315	width:  624	height:  219
+excavator: 95.391136%	left_x:  299	top_y:  197	width:  138	height:   55
+excavator: 96.572281%	left_x:  698	top_y:  181	width:  412	height:  363
+End
+Start processing myTraining/batchTest/0924_9_146.jpg
+myTraining/batchTest/0924_9_146.jpg: Predicted in 92.679000 milli-seconds.
+truck: 96.417389%	left_x:  105	top_y:  137	width:   91	height:   42
+truck: 99.772758%	left_x:  134	top_y:  315	width:  631	height:  219
+excavator: 99.240959%	left_x:  325	top_y:  173	width:  112	height:   85
+excavator: 95.903687%	left_x:  654	top_y:  170	width:  583	height:  532
+End
+Start processing myTraining/batchTest/0924_9_322.jpg
+myTraining/batchTest/0924_9_322.jpg: Predicted in 92.155000 milli-seconds.
+worker: 83.585579%	left_x:   39	top_y:  254	width:   27	height:   66
+truck: 99.841347%	left_x:  428	top_y:  307	width:  158	height:  170
+compactor: 88.512863%	left_x:  461	top_y:  203	width:   59	height:   39
+excavator: 98.892136%	left_x:  504	top_y:  166	width:   55	height:   37
+End
+Start processing myTraining/batchTest/0924_9_242.jpg
+myTraining/batchTest/0924_9_242.jpg: Predicted in 92.528000 milli-seconds.
+excavator: 88.447929%	left_x:   69	top_y:  109	width:   37	height:   48
+truck: 99.708435%	left_x:  132	top_y:  317	width:  637	height:  216
+truck: 97.896019%	left_x:  153	top_y:  140	width:   52	height:   50
+excavator: 99.630287%	left_x:  716	top_y:  183	width:  384	height:  370
+End
+Start processing myTraining/batchTest/0924_9_166.jpg
+myTraining/batchTest/0924_9_166.jpg: Predicted in 92.623000 milli-seconds.
+truck: 95.904243%	left_x:  105	top_y:  136	width:   92	height:   44
+truck: 99.742668%	left_x:  138	top_y:  313	width:  626	height:  223
+excavator: 98.775017%	left_x:  323	top_y:  189	width:  116	height:   70
+excavator: 99.710739%	left_x:  614	top_y:    2	width:  398	height:  459
+End
+Start processing myTraining/batchTest/0924_9_69.jpg
+myTraining/batchTest/0924_9_69.jpg: Predicted in 92.912000 milli-seconds.
+truck: 99.655632%	left_x:  309	top_y:  350	width:  471	height:  255
+compactor: 96.576813%	left_x:  468	top_y:  189	width:   65	height:   40
+excavator: 94.321877%	left_x:  538	top_y:  154	width:   46	height:   34
+truck: 42.163406%	left_x:  722	top_y:  229	width:  172	height:  130
+End
+Start processing myTraining/batchTest/0924_9_222.jpg
+myTraining/batchTest/0924_9_222.jpg: Predicted in 92.866000 milli-seconds.
+excavator: 38.736828%	left_x:   47	top_y:  110	width:   63	height:   41
+truck: 98.046791%	left_x:   85	top_y:  139	width:   72	height:   38
+truck: 99.661156%	left_x:  138	top_y:  310	width:  625	height:  224
+truck: 99.533211%	left_x:  163	top_y:  144	width:   52	height:   57
+excavator: 98.996201%	left_x:  303	top_y:  189	width:  118	height:   75
+excavator: 99.956856%	left_x:  427	top_y:   61	width:  589	height:  396
+End
+Start processing myTraining/batchTest/0924_9_272.jpg
+myTraining/batchTest/0924_9_272.jpg: Predicted in 92.589000 milli-seconds.
+excavator: 97.287987%	left_x:   55	top_y:  109	width:   55	height:   48
+truck: 99.205307%	left_x:  139	top_y:  313	width:  622	height:  222
+excavator: 99.954872%	left_x:  464	top_y:   -5	width:  545	height:  492
+End
+Start processing myTraining/batchTest/0924_9_259.jpg
+myTraining/batchTest/0924_9_259.jpg: Predicted in 92.732000 milli-seconds.
+excavator: 97.573120%	left_x:   65	top_y:  123	width:   80	height:   36
+truck: 98.787956%	left_x:  145	top_y:  313	width:  616	height:  221
+excavator: 99.073456%	left_x:  317	top_y:  177	width:  118	height:   80
+excavator: 99.897125%	left_x:  504	top_y:   -8	width:  511	height:  492
+End
+Start processing myTraining/batchTest/0924_9_189.jpg
+myTraining/batchTest/0924_9_189.jpg: Predicted in 92.233000 milli-seconds.
+truck: 92.042854%	left_x:  103	top_y:  135	width:   93	height:   44
+truck: 99.753952%	left_x:  142	top_y:  311	width:  618	height:  223
+excavator: 99.562508%	left_x:  592	top_y:    9	width:  413	height:  468
+End
+Start processing myTraining/batchTest/0924_9_219.jpg
+myTraining/batchTest/0924_9_219.jpg: Predicted in 92.913000 milli-seconds.
+truck: 51.203526%	left_x:   74	top_y:  139	width:   62	height:   40
+truck: 99.695541%	left_x:  138	top_y:  312	width:  627	height:  221
+truck: 98.395943%	left_x:  153	top_y:  138	width:   54	height:   52
+excavator: 94.266472%	left_x:  297	top_y:  196	width:  142	height:   57
+excavator: 99.320282%	left_x:  572	top_y:   22	width:  423	height:  441
+End
+Start processing myTraining/batchTest/0924_9_306.jpg
+myTraining/batchTest/0924_9_306.jpg: Predicted in 91.839000 milli-seconds.
+excavator: 95.129761%	left_x:   65	top_y:  123	width:   73	height:   38
+truck: 99.300415%	left_x:  132	top_y:  312	width:  602	height:  225
+excavator: 95.183540%	left_x:  696	top_y:   78	width:  517	height:  382
+End
+Start processing myTraining/batchTest/0924_9_209.jpg
+myTraining/batchTest/0924_9_209.jpg: Predicted in 92.551000 milli-seconds.
+truck: 99.768501%	left_x:  134	top_y:  317	width:  633	height:  217
+truck: 98.796371%	left_x:  139	top_y:  142	width:   57	height:   42
+excavator: 96.250122%	left_x:  298	top_y:  197	width:  140	height:   56
+excavator: 99.676788%	left_x:  683	top_y:  192	width:  468	height:  461
+End
+Start processing myTraining/batchTest/0924_9_46.jpg
+myTraining/batchTest/0924_9_46.jpg: Predicted in 92.249000 milli-seconds.
+truck: 88.113266%	left_x:   70	top_y:  164	width:   98	height:   64
+compactor: 96.851173%	left_x:  175	top_y:  174	width:   99	height:   52
+excavator: 96.967796%	left_x:  261	top_y:  106	width:   90	height:   59
+truck: 96.606812%	left_x:  412	top_y:  233	width:  170	height:  129
+truck: 99.547340%	left_x:  571	top_y:  277	width:  319	height:  200
+End
+Start processing myTraining/batchTest/0924_9_56.jpg
+myTraining/batchTest/0924_9_56.jpg: Predicted in 93.501000 milli-seconds.
+compactor: 95.331161%	left_x:  119	top_y:  155	width:  201	height:   89
+truck: 91.259506%	left_x:  139	top_y:  110	width:  271	height:   97
+truck: 98.808578%	left_x:  449	top_y:  110	width:  168	height:  102
+End
+Start processing myTraining/batchTest/0924_9_136.jpg
+myTraining/batchTest/0924_9_136.jpg: Predicted in 92.007000 milli-seconds.
+truck: 94.234039%	left_x:  104	top_y:  137	width:   92	height:   42
+truck: 99.804100%	left_x:  142	top_y:  314	width:  618	height:  221
+excavator: 99.305702%	left_x:  323	top_y:  174	width:  113	height:   83
+excavator: 98.409386%	left_x:  702	top_y:  116	width:  456	height:  418
+End
+Start processing myTraining/batchTest/0924_9_72.jpg
+myTraining/batchTest/0924_9_72.jpg: Predicted in 92.204000 milli-seconds.
+truck: 99.427238%	left_x:  275	top_y:  352	width:  548	height:  256
+truck: 66.790840%	left_x:  292	top_y:  166	width:   68	height:   72
+compactor: 99.043861%	left_x:  586	top_y:  172	width:   69	height:   39
+excavator: 93.408043%	left_x:  658	top_y:  139	width:   47	height:   33
+truck: 46.402122%	left_x:  848	top_y:  219	width:  191	height:  138
+End
+Start processing myTraining/batchTest/0924_9_352.jpg
+myTraining/batchTest/0924_9_352.jpg: Predicted in 92.874000 milli-seconds.
+compactor: 99.141289%	left_x:  127	top_y:  140	width:  189	height:   92
+excavator: 98.967064%	left_x:  260	top_y:   18	width:  150	height:  109
+truck: 99.759148%	left_x:  531	top_y:  238	width:  182	height:  267
+End
+Start processing myTraining/batchTest/0924_9_62.jpg
+myTraining/batchTest/0924_9_62.jpg: Predicted in 92.595000 milli-seconds.
+truck: 91.144020%	left_x:  135	top_y:  245	width:   86	height:   53
+compactor: 99.105057%	left_x:  350	top_y:  237	width:   74	height:   40
+excavator: 94.291748%	left_x:  413	top_y:  195	width:   56	height:   40
+truck: 99.151382%	left_x:  422	top_y:  382	width:  326	height:  219
+excavator: 46.243946%	left_x: 1011	top_y:  157	width:  258	height:  426
+End
+Start processing myTraining/batchTest/0924_9_52.jpg
+myTraining/batchTest/0924_9_52.jpg: Predicted in 91.981000 milli-seconds.
+truck: 95.124222%	left_x:  226	top_y:  237	width:   79	height:   44
+compactor: 99.369362%	left_x:  348	top_y:  237	width:   72	height:   41
+compactor: 88.206703%	left_x:  429	top_y:  200	width:   34	height:   39
+truck: 96.664856%	left_x:  519	top_y:  280	width:  140	height:   92
+truck: 98.883591%	left_x:  654	top_y:  328	width:  128	height:  163
+excavator: 61.554508%	left_x: 1000	top_y:  171	width:  276	height:  404
+End
+Start processing myTraining/batchTest/0924_9_172.jpg
+myTraining/batchTest/0924_9_172.jpg: Predicted in 93.119000 milli-seconds.
+truck: 90.225021%	left_x:  102	top_y:  135	width:   96	height:   45
+truck: 99.778793%	left_x:  133	top_y:  313	width:  634	height:  221
+excavator: 98.681595%	left_x:  297	top_y:  193	width:  149	height:   70
+excavator: 97.625534%	left_x:  686	top_y:  210	width:  575	height:  480
+End
+Start processing myTraining/batchTest/0924_9_202.jpg
+myTraining/batchTest/0924_9_202.jpg: Predicted in 93.341000 milli-seconds.
+truck: 27.738956%	left_x:  101	top_y:  137	width:   89	height:   38
+truck: 99.778252%	left_x:  129	top_y:  316	width:  643	height:  218
+truck: 99.696228%	left_x:  155	top_y:  158	width:   51	height:   50
+excavator: 98.360809%	left_x:  311	top_y:  191	width:  127	height:   68
+excavator: 96.196732%	left_x:  683	top_y:  205	width:  585	height:  501
+End
+Start processing myTraining/batchTest/0924_9_9.jpg
+myTraining/batchTest/0924_9_9.jpg: Predicted in 92.601000 milli-seconds.
+compactor: 99.242325%	left_x:  129	top_y:  154	width:  177	height:   86
+excavator: 90.877655%	left_x:  341	top_y:   40	width:   95	height:   93
+truck: 99.573479%	left_x:  506	top_y:  276	width:  137	height:  154
+End
+Start processing myTraining/batchTest/0924_9_22.jpg
+myTraining/batchTest/0924_9_22.jpg: Predicted in 92.557000 milli-seconds.
+compactor: 99.517891%	left_x:  146	top_y:   83	width:  174	height:   88
+excavator: 91.803589%	left_x:  286	top_y:    1	width:  173	height:   58
+truck: 99.882278%	left_x:  538	top_y:  205	width:  265	height:  224
+End
+Start processing myTraining/batchTest/0924_9_156.jpg
+myTraining/batchTest/0924_9_156.jpg: Predicted in 92.802000 milli-seconds.
+compactor: 98.829002%	left_x:  127	top_y:  153	width:  180	height:   87
+truck: 99.652176%	left_x:  507	top_y:  120	width:  124	height:  131
+excavator: 25.201294%	left_x:  973	top_y:  218	width:  289	height:  181
+End
+Start processing myTraining/batchTest/0924_9_256.jpg
+myTraining/batchTest/0924_9_256.jpg: Predicted in 92.238000 milli-seconds.
+compactor: 99.083374%	left_x:  127	top_y:  153	width:  180	height:   88
+excavator: 99.395378%	left_x:  278	top_y:   63	width:  165	height:   76
+truck: 98.783630%	left_x:  530	top_y:  166	width:  107	height:  152
+End
+Start processing myTraining/batchTest/0924_9_159.jpg
+myTraining/batchTest/0924_9_159.jpg: Predicted in 92.662000 milli-seconds.
+truck: 91.498032%	left_x:  105	top_y:  135	width:   92	height:   43
+truck: 99.768272%	left_x:  138	top_y:  312	width:  625	height:  222
+excavator: 98.125473%	left_x:  327	top_y:  170	width:  107	height:   87
+excavator: 99.436172%	left_x:  551	top_y:   27	width:  452	height:  427
+End
+Start processing myTraining/batchTest/0924_9_106.jpg
+myTraining/batchTest/0924_9_106.jpg: Predicted in 91.848000 milli-seconds.
+truck: 99.863037%	left_x:  340	top_y:  290	width:  589	height:  209
+compactor: 99.319801%	left_x:  645	top_y:  115	width:   71	height:   39
+excavator: 96.294281%	left_x:  713	top_y:   75	width:   56	height:   41
+truck: 99.085388%	left_x:  760	top_y:  151	width:   75	height:   62
+excavator: 97.127975%	left_x:  928	top_y:  158	width:  133	height:   66
+End
+Start processing myTraining/batchTest/0924_9_96.jpg
+myTraining/batchTest/0924_9_96.jpg: Predicted in 92.293000 milli-seconds.
+truck: 99.507599%	left_x:  230	top_y:  303	width:  602	height:  219
+compactor: 98.340500%	left_x:  772	top_y:  109	width:   62	height:   39
+truck: 97.274162%	left_x:  777	top_y:  154	width:  114	height:  105
+excavator: 79.226051%	left_x:  846	top_y:   70	width:   42	height:   38
+excavator: 89.330475%	left_x: 1091	top_y:  122	width:  116	height:   94
+End
+Start processing myTraining/batchTest/0924_9_312.jpg
+myTraining/batchTest/0924_9_312.jpg: Predicted in 92.421000 milli-seconds.
+compactor: 99.040070%	left_x:  126	top_y:  152	width:  182	height:   88
+excavator: 99.311440%	left_x:  261	top_y:   43	width:  189	height:   90
+truck: 99.262718%	left_x:  510	top_y:  113	width:  134	height:  100
+truck: 99.462257%	left_x:  524	top_y:  206	width:  113	height:  155
+End
+Start processing myTraining/batchTest/0924_9_302.jpg
+myTraining/batchTest/0924_9_302.jpg: Predicted in 92.504000 milli-seconds.
+excavator: 95.294647%	left_x:   67	top_y:  119	width:   73	height:   40
+compactor: 39.299797%	left_x:   71	top_y:  121	width:   63	height:   38
+truck: 99.620506%	left_x:  140	top_y:  313	width:  623	height:  221
+excavator: 99.926071%	left_x:  438	top_y:   31	width:  577	height:  426
+End
+Start processing myTraining/batchTest/0924_9_309.jpg
+myTraining/batchTest/0924_9_309.jpg: Predicted in 92.614000 milli-seconds.
+compactor: 98.713165%	left_x:  222	top_y:  159	width:   78	height:   38
+truck: 99.080643%	left_x:  256	top_y:  302	width:  553	height:  230
+excavator: 93.920677%	left_x:  292	top_y:  124	width:   64	height:   36
+End
+Start processing myTraining/batchTest/0924_9_252.jpg
+myTraining/batchTest/0924_9_252.jpg: Predicted in 92.456000 milli-seconds.
+compactor: 57.360680%	left_x:   67	top_y:  106	width:   39	height:   48
+excavator: 58.079910%	left_x:   67	top_y:  104	width:   39	height:   53
+truck: 99.583832%	left_x:  133	top_y:  315	width:  631	height:  219
+truck: 98.975594%	left_x:  153	top_y:  157	width:   75	height:   71
+excavator: 98.950577%	left_x:  298	top_y:  190	width:  132	height:   70
+excavator: 99.887985%	left_x:  424	top_y:   69	width:  592	height:  394
+End
+Start processing myTraining/batchTest/0924_9_196.jpg
+myTraining/batchTest/0924_9_196.jpg: Predicted in 91.901000 milli-seconds.
+truck: 96.275276%	left_x:  105	top_y:  135	width:   92	height:   43
+truck: 99.681824%	left_x:  142	top_y:  311	width:  619	height:  223
+truck: 99.622414%	left_x:  165	top_y:  174	width:   98	height:   61
+excavator: 98.037926%	left_x:  297	top_y:  193	width:  149	height:   65
+excavator: 99.930367%	left_x:  486	top_y:  -24	width:  531	height:  517
+End
+Start processing myTraining/batchTest/0924_9_366.jpg
+myTraining/batchTest/0924_9_366.jpg: Predicted in 93.143000 milli-seconds.
+compactor: 98.881027%	left_x:  126	top_y:  152	width:  182	height:   87
+worker: 75.316528%	left_x:  274	top_y:  147	width:   20	height:   60
+excavator: 98.442986%	left_x:  289	top_y:   57	width:  153	height:   83
+truck: 99.510269%	left_x:  508	top_y:  234	width:  124	height:  167
+truck: 99.712219%	left_x:  531	top_y:  122	width:  127	height:  129
+End
+Start processing myTraining/batchTest/0924_9_29.jpg
+myTraining/batchTest/0924_9_29.jpg: Predicted in 92.954000 milli-seconds.
+compactor: 99.239990%	left_x:  121	top_y:   40	width:  177	height:   90
+truck: 99.710869%	left_x:  581	top_y:  182	width:  329	height:  252
+End
+Start processing myTraining/batchTest/0924_9_246.jpg
+myTraining/batchTest/0924_9_246.jpg: Predicted in 91.180000 milli-seconds.
+excavator: 97.340141%	left_x:   69	top_y:  108	width:   36	height:   47
+truck: 99.702423%	left_x:  134	top_y:  316	width:  634	height:  218
+truck: 99.268196%	left_x:  153	top_y:  146	width:   53	height:   55
+excavator: 98.198799%	left_x:  298	top_y:  191	width:  133	height:   71
+excavator: 99.867844%	left_x:  705	top_y:   23	width:  307	height:  460
+End
+Start processing myTraining/batchTest/0924_9_49.jpg
+myTraining/batchTest/0924_9_49.jpg: Predicted in 91.656000 milli-seconds.
+truck: 93.594200%	left_x:  109	top_y:  193	width:   94	height:   55
+compactor: 98.788445%	left_x:  234	top_y:  193	width:  100	height:   51
+compactor: 49.222717%	left_x:  335	top_y:  137	width:   56	height:   52
+excavator: 78.705566%	left_x:  337	top_y:  137	width:   55	height:   53
+truck: 92.103004%	left_x:  463	top_y:  255	width:  163	height:  108
+truck: 99.857872%	left_x:  633	top_y:  302	width:  231	height:  192
+End
+Start processing myTraining/batchTest/0924_9_212.jpg
+myTraining/batchTest/0924_9_212.jpg: Predicted in 92.759000 milli-seconds.
+compactor: 98.873367%	left_x:  125	top_y:  152	width:  183	height:   87
+excavator: 98.374756%	left_x:  240	top_y:   42	width:  201	height:   88
+truck: 99.003067%	left_x:  529	top_y:  150	width:  110	height:  135
+End
+Start processing myTraining/batchTest/0924_9_169.jpg
+myTraining/batchTest/0924_9_169.jpg: Predicted in 92.540000 milli-seconds.
+truck: 93.320778%	left_x:  103	top_y:  135	width:   94	height:   44
+truck: 99.778786%	left_x:  140	top_y:  313	width:  621	height:  222
+excavator: 98.939911%	left_x:  331	top_y:  174	width:  107	height:   88
+excavator: 99.275627%	left_x:  719	top_y:  139	width:  429	height:  406
+End
+Start processing myTraining/batchTest/0924_9_59.jpg
+myTraining/batchTest/0924_9_59.jpg: Predicted in 93.322000 milli-seconds.
+truck: 74.178513%	left_x:  168	top_y:  242	width:   79	height:   53
+compactor: 99.429626%	left_x:  351	top_y:  238	width:   72	height:   40
+excavator: 97.245934%	left_x:  411	top_y:  200	width:   57	height:   38
+truck: 99.826691%	left_x:  549	top_y:  354	width:  216	height:  207
+excavator: 34.935474%	left_x: 1014	top_y:  168	width:  256	height:  406
+End
+Start processing myTraining/batchTest/0924_9_362.jpg
+myTraining/batchTest/0924_9_362.jpg: Predicted in 92.556000 milli-seconds.
+compactor: 99.113647%	left_x:  127	top_y:  141	width:  189	height:   91
+excavator: 98.917519%	left_x:  248	top_y:    9	width:  147	height:  106
+truck: 99.003395%	left_x:  498	top_y:  240	width:  191	height:  224
+End
+Start processing myTraining/batchTest/0924_9_296.jpg
+myTraining/batchTest/0924_9_296.jpg: Predicted in 92.853000 milli-seconds.
+excavator: 96.500565%	left_x:   57	top_y:  107	width:   53	height:   49
+truck: 99.377151%	left_x:  149	top_y:  313	width:  605	height:  221
+excavator: 99.949753%	left_x:  437	top_y:   56	width:  573	height:  411
+End
+Start processing myTraining/batchTest/0924_9_282.jpg
+myTraining/batchTest/0924_9_282.jpg: Predicted in 91.797000 milli-seconds.
+excavator: 96.240929%	left_x:   64	top_y:  121	width:   78	height:   39
+compactor: 37.177216%	left_x:   68	top_y:  123	width:   66	height:   38
+truck: 99.443481%	left_x:  143	top_y:  316	width:  618	height:  219
+excavator: 99.824463%	left_x:  462	top_y:   35	width:  529	height:  459
+End
+Start processing myTraining/batchTest/0924_9_149.jpg
+myTraining/batchTest/0924_9_149.jpg: Predicted in 92.272000 milli-seconds.
+truck: 96.837532%	left_x:  106	top_y:  137	width:   91	height:   42
+truck: 99.804268%	left_x:  135	top_y:  316	width:  630	height:  218
+excavator: 96.147629%	left_x:  304	top_y:  195	width:  134	height:   57
+excavator: 99.200981%	left_x:  689	top_y:  198	width:  478	height:  427
+End
+Start processing myTraining/batchTest/0924_9_132.jpg
+myTraining/batchTest/0924_9_132.jpg: Predicted in 92.687000 milli-seconds.
+truck: 99.237114%	left_x:   86	top_y:  141	width:  103	height:   39
+truck: 99.687843%	left_x:  134	top_y:  314	width:  631	height:  224
+excavator: 98.466904%	left_x:  313	top_y:  191	width:  122	height:   71
+excavator: 99.315605%	left_x:  556	top_y:   -2	width:  453	height:  473
+truck: 74.757454%	left_x:  913	top_y:  257	width:  132	height:  141
+End
+Start processing myTraining/batchTest/0924_9_269.jpg
+myTraining/batchTest/0924_9_269.jpg: Predicted in 92.905000 milli-seconds.
+excavator: 88.325439%	left_x:   68	top_y:  108	width:   37	height:   48
+truck: 99.269852%	left_x:  136	top_y:  311	width:  626	height:  224
+excavator: 99.951294%	left_x:  474	top_y:  -10	width:  539	height:  497
+End
+Start processing myTraining/batchTest/0924_9_349.jpg
+myTraining/batchTest/0924_9_349.jpg: Predicted in 92.818000 milli-seconds.
+compactor: 99.108315%	left_x:  127	top_y:  138	width:  189	height:   95
+excavator: 97.717514%	left_x:  315	top_y:   17	width:   92	height:  105
+truck: 99.270531%	left_x:  521	top_y:  262	width:  213	height:  261
+End
+Start processing myTraining/batchTest/0924_9_249.jpg
+myTraining/batchTest/0924_9_249.jpg: Predicted in 93.676000 milli-seconds.
+excavator: 94.442955%	left_x:   50	top_y:  108	width:   55	height:   50
+truck: 99.514107%	left_x:  130	top_y:  313	width:  641	height:  221
+truck: 99.336449%	left_x:  150	top_y:  153	width:   52	height:   59
+excavator: 98.224243%	left_x:  303	top_y:  187	width:  125	height:   78
+excavator: 99.800720%	left_x:  525	top_y:   10	width:  504	height:  469
+End
+Start processing myTraining/batchTest/0924_9_179.jpg
+myTraining/batchTest/0924_9_179.jpg: Predicted in 92.607000 milli-seconds.
+compactor: 98.558136%	left_x:  127	top_y:  154	width:  183	height:   87
+excavator: 95.007309%	left_x:  285	top_y:   51	width:  160	height:   83
+truck: 99.570625%	left_x:  524	top_y:  132	width:  113	height:  132
+End
+Start processing myTraining/batchTest/0924_9_292.jpg
+myTraining/batchTest/0924_9_292.jpg: Predicted in 92.568000 milli-seconds.
+compactor: 98.511925%	left_x:   60	top_y:  113	width:   59	height:   43
+truck: 99.453346%	left_x:  137	top_y:  313	width:  627	height:  222
+excavator: 99.895737%	left_x:  419	top_y:   62	width:  579	height:  405
+End
+Start processing myTraining/batchTest/0924_9_229.jpg
+myTraining/batchTest/0924_9_229.jpg: Predicted in 92.462000 milli-seconds.
+truck: 99.383064%	left_x:  122	top_y:  139	width:   70	height:   38
+truck: 99.767059%	left_x:  136	top_y:  315	width:  632	height:  219
+truck: 98.877647%	left_x:  175	top_y:  168	width:   87	height:   64
+excavator: 97.075882%	left_x:  301	top_y:  192	width:  139	height:   65
+excavator: 98.621414%	left_x:  658	top_y:  133	width:  612	height:  492
+End
+Start processing myTraining/batchTest/0924_9_66.jpg
+myTraining/batchTest/0924_9_66.jpg: Predicted in 92.846000 milli-seconds.
+truck: 33.454922%	left_x:  174	top_y:  202	width:   89	height:   51
+truck: 99.673157%	left_x:  326	top_y:  344	width:  451	height:  252
+compactor: 94.008881%	left_x:  436	top_y:  190	width:   64	height:   40
+excavator: 86.045578%	left_x:  504	top_y:  149	width:   47	height:   42
+compactor: 29.134521%	left_x:  505	top_y:  150	width:   45	height:   39
+truck: 71.170074%	left_x:  687	top_y:  226	width:  171	height:  135
+End
+Start processing myTraining/batchTest/0924_9_332.jpg
+myTraining/batchTest/0924_9_332.jpg: Predicted in 92.016000 milli-seconds.
+compactor: 98.004799%	left_x:  173	top_y:  154	width:  162	height:   82
+truck: 99.349854%	left_x:  194	top_y:  347	width:  395	height:  344
+excavator: 97.323479%	left_x:  327	top_y:   10	width:  120	height:  116
+End
+Start processing myTraining/batchTest/0924_9_299.jpg
+myTraining/batchTest/0924_9_299.jpg: Predicted in 93.774000 milli-seconds.
+compactor: 93.565346%	left_x:   61	top_y:  110	width:   65	height:   46
+truck: 99.583336%	left_x:  137	top_y:  314	width:  625	height:  218
+excavator: 99.802765%	left_x:  408	top_y:   72	width:  597	height:  392
+End
+Start processing myTraining/batchTest/0924_9_216.jpg
+myTraining/batchTest/0924_9_216.jpg: Predicted in 91.757000 milli-seconds.
+truck: 98.364784%	left_x:   47	top_y:  146	width:   83	height:   34
+truck: 94.125565%	left_x:  138	top_y:  136	width:   61	height:   44
+truck: 99.793289%	left_x:  139	top_y:  315	width:  624	height:  219
+excavator: 84.818718%	left_x:  299	top_y:  198	width:  136	height:   53
+excavator: 98.962799%	left_x:  719	top_y:   72	width:  312	height:  431
+End
+Start processing myTraining/batchTest/0924_9_36.jpg
+myTraining/batchTest/0924_9_36.jpg: Predicted in 92.403000 milli-seconds.
+compactor: 96.916183%	left_x:   -0	top_y:   41	width:  151	height:   91
+truck: 99.823135%	left_x:  521	top_y:  207	width:  400	height:  270
+End
+Start processing myTraining/batchTest/0924_9_186.jpg
+myTraining/batchTest/0924_9_186.jpg: Predicted in 92.009000 milli-seconds.
+truck: 95.808563%	left_x:  105	top_y:  136	width:   92	height:   43
+truck: 99.788971%	left_x:  139	top_y:  313	width:  623	height:  222
+excavator: 98.739525%	left_x:  723	top_y:   74	width:  299	height:  421
+End
+Start processing myTraining/batchTest/0924_9_192.jpg
+myTraining/batchTest/0924_9_192.jpg: Predicted in 92.585000 milli-seconds.
+truck: 96.534203%	left_x:  105	top_y:  135	width:   92	height:   44
+truck: 99.629715%	left_x:  129	top_y:  310	width:  639	height:  224
+excavator: 99.936234%	left_x:  456	top_y:   19	width:  559	height:  468
+End
+Start processing myTraining/batchTest/0924_9_359.jpg
+myTraining/batchTest/0924_9_359.jpg: Predicted in 92.746000 milli-seconds.
+compactor: 99.055656%	left_x:  126	top_y:  141	width:  190	height:   91
+excavator: 98.646233%	left_x:  268	top_y:    6	width:  117	height:  116
+truck: 98.987511%	left_x:  502	top_y:  243	width:  184	height:  222
+End

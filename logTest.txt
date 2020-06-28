@@ -1,0 +1,26 @@
+net.optimized_memory = 0 
+mini_batch = 1, batch = 64, time_steps = 1, train = 0 
+nms_kind: greedynms (1), beta = 0.600000 
+nms_kind: greedynms (1), beta = 0.600000 
+nms_kind: greedynms (1), beta = 0.600000 
+
+ seen 64, trained: 108 K-images (1 Kilo-batches_64) 
+
+ calculation mAP (mean average precision)...
+
+ detections_count = 894, unique_truth_count = 458  
+ rank = 0 of ranks = 894  rank = 100 of ranks = 894  rank = 200 of ranks = 894  rank = 300 of ranks = 894  rank = 400 of ranks = 894  rank = 500 of ranks = 894  rank = 600 of ranks = 894  rank = 700 of ranks = 894  rank = 800 of ranks = 894 class_id = 0, name = compactor, ap = 98.32%   	 (TP = 91, FP = 15) 
+class_id = 1, name = truck, ap = 95.48%   	 (TP = 175, FP = 12) 
+class_id = 2, name = excavator, ap = 96.28%   	 (TP = 91, FP = 5) 
+class_id = 3, name = worker, ap = 3.72%   	 (TP = 2, FP = 0) 
+
+ for conf_thresh = 0.50, precision = 0.92, recall = 0.78, F1-score = 0.85 
+ for conf_thresh = 0.50, TP = 359, FP = 32, FN = 99, average IoU = 77.50 % 
+
+ IoU threshold = 50 %, used Area-Under-Curve for each unique Recall 
+ mean average precision (mAP@0.50) = 0.734489, or 73.45 % 
+
+Set -points flag:
+ `-points 101` for MS COCO 
+ `-points 11` for PascalVOC 2007 (uncomment `difficult` in voc.data) 
+ `-points 0` (AUC) for ImageNet, PascalVOC 2010-2012, your custom dataset
