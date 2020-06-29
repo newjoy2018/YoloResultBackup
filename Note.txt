@@ -1,0 +1,87 @@
+------------------------------------------------------------------------
+Training
+./darknet -i <gpu_id> detector train <(*.data)data_cfg> <(*.cfg)train_cfg> <backup/> <weights> -map
+./darknet detector train data/mydata.data cfg/yolov4_mydataset.cfg backup/yolov4_mydataset.weights -map
+./启动yolo 检测程序 训练   图片路径文件.data      网络结构.cfg		      自己训练处的权重文件      显示map
+./darknet detector train KITMoMa/obj.data KITMoMa/yolo-obj.cfg KITMoMa/backup build/darknet/x64/yolov4.conv.137 -map
+
+------------------------------------------------------------------------
+Batch Test
+./darknet detector batch cfg/coco.data cfg/yolov4.cfg weights/yolov4.weights io_folder data/testFolder/ output/ -dont_show -out output/result.json -ext_output > output/result.txt
+./darknet detector batch myTraining/obj.data myTraining/yolo-obj.cfg myTraining/yolo-obj_last.weights io_folder myTraining/batchTest/ myTraining/batchTest_output/ -dont_show -out myTraining/batctTestResult.json -ext_output > myTraining/batctTestResult.txt
+------------------------------------------------------------------------
+Video test
+
+./darknet detector demo cfg/coco.data cfg/yolov4.cfg yolov4.weights data/doraemon.mp4 -dont_show -out_filename test_doraemon.mp4
+./darknet detector demo cfg/coco.data cfg/yolov4.cfg yolov4.weights data/wudaokou.mp4 -ext_output test.mp4
+
+./darknet detector demo cfg/coco.data cfg/yolov4.cfg yolov4.weights data/wudaokou.mp4 -dont_show -out_filename test_wudaokou.mp4
+------------------------------------------------------------------------
+
+# 测试mAP
+./darknet detector map data/voc.data data/yolov3-voc.cfg data/weights/yolov3-voc_22000.weights -points 11 -thresh 0.5 -iou_thresh 0.5
+
+./darknet detector train build/darknet/x64/data/obj.data myTraining/yolo-obj.cfg build/darknet/x64/yolov4.conv.137 -map
+
+./darknet detector map KITMoMa/obj.data KITMoMa/kitmoma.cfg KITMoMa/anchors_no_road_colab_608_150_best.weights -thresh 0.5 -iou_thresh 0.5 > log_KITMoMa_mAP.txt
+------------------------------------------------------------------------
+#生成gif
+convert -delay 25 -loop 0 *.jpg result2.gif
+------------------------------------------------------------------------
+build/darknet/x64/backup/yolo-obj_last.weights
+------------------------------------------------------------------------
+监测GPU温度
+watch -n 2 nvidia-smi -q -i 0,1 -d TEMPERATURE
+监测CPU温度
+watch -n 2 sensors
+------------------------------------------------------------------------
+# 替换多个文件的特定文本
+sed -i "s/bulldozer,t/bulldozer/g" `grep bulldozer,t -rl` *
+sed -i "s/crane,t/crane/g" `grep crane,t -rl` *
+------------------------------------------------------------------------
+truck,o  矿用卡车 皮卡        truck,t
+crane
+excavator                   excavator,t
+excavator breaker #0924_20_549      excavator breaker,o
+bulldozer                   bulldozer,o
+compactor
+motor grader,t #0924_13_2
+motor grader,o
+wheel loader,o
+
+truck   excavator   bulldozer   crane   compactor   excavator breaker   motor grader(60)
+------------------------------------------------------------------------
+批量替换标签中的多余字符,t/,o
+
+sed -i "s/truck,o/truck/g" `grep truck,o -rl` *
+sed -i "s/truck,t/truck/g" `grep truck,t -rl` *
+sed -i "s/excavator,o/excavator/g" `grep excavator,o -rl` *
+sed -i "s/excavator,t/excavator/g" `grep excavator,t -rl` *
+sed -i "s/person,o/person/g" `grep person,o -rl` *
+sed -i "s/person,t/person/g" `grep person,t -rl` *
+sed -i "s/bulldozer,o/bulldozer/g" `grep bulldozer,o -rl` *
+sed -i "s/bulldozer,t/bulldozer/g" `grep bulldozer,t -rl` *
+sed -i "s/roller,o/roller/g" `grep roller,o -rl` *
+sed -i "s/roller,t/roller/g" `grep roller,t -rl` *
+sed -i "s/loader,o/loader/g" `grep loader,o -rl` *
+sed -i "s/loader,t/loader/g" `grep loader,t -rl` *
+sed -i "s/dumper,o/dumper/g" `grep dumper,o -rl` *
+sed -i "s/dumper,t/dumper/g" `grep dumper,t -rl` *
+sed -i "s/car,o/car/g" `grep car,o -rl` *
+sed -i "s/car,t/car/g" `grep car,t -rl` *
+
+sed -i "s/breaker,o/breaker/g" `grep breaker,o -rl` *
+sed -i "s/breaker,t/breaker/g" `grep breaker,t -rl` *
+sed -i "s/grader,o/motor grader/g" `grep grader,o -rl` *
+sed -i "s/grader,t/motor grader/g" `grep grader,t -rl` *
+sed -i "s/crane,o/crane/g" `grep crane,o -rl` *
+sed -i "s/crane,t/crane/g" `grep crane,t -rl` *
+------------------------------------------------------------------------
+
+grep -lr "motor grader"
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+install OpenCV
+
+cmake -D CMAKE_BUILD_TYPE=Release -D CMAKE_INSTALL_PREFIX=/usr/local -D OPENCV_EXTRA_MODULES_PATH=/home/niuzhuo/Programs/opencv/opencv_contrib/modules -D PYTHON_DEFAULT_EXECUTABLE=/usr/bin/python3 -D BUILD_opencv_python3=ON -D BUILD_opencv_python2=OFF -D PYTHON3_EXCUTABLE=/usr/bin/python3 -D PYTHON3_INCLUDE_DIR=/usr/include/python3.5m -D WITH_CUDA=ON -D OPENCV_GENERATE_PKGCONFIG=ON -D ENABLE_FAST_MATH=1 -D CUDA_FAST_MATH=1 -D CUDA_NVCC_FLAGS="-D_FORCE_INLINES" -D WITH_CUBLAS=1 -D WITH_OPENGL=ON -D WITH_V4L=ON ..
+------------------------------------------------------------------------
